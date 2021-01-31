@@ -88,6 +88,7 @@ end ;
 
 procedure CheckDatabaseFiles;
 begin
+     //ShowMessage(ExtractFilePath(Application.ExeName));
 
      if FileExists(formulations_db) = false then
      begin
@@ -127,6 +128,7 @@ begin
   Application.CreateForm(TForm12, Form12);
   Application.CreateForm(TForm13, Form13);
   SetActiveTab  ;
+  SetCurrentDir(ExtractFilePath(Application.ExeName));
   CheckDatabaseFiles;
   AssignValues ;
   UpdateComboBoxes ;

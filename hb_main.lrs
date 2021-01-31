@@ -1,9 +1,9 @@
 { This is an automatically generated lazarus resource file }
 
 LazarusResources.Add('TForm1','FORMDATA',[
-  'TPF0'#6'TForm1'#5'Form1'#4'Left'#3#147#3#6'Height'#3#162#2#3'Top'#2':'#5'Wid'
-  +'th'#3'B'#3#18'HorzScrollBar.Page'#3'I'#3#19'HorzScrollBar.Range'#3'8'#3#18
-  +'VertScrollBar.Page'#3#179#2#19'VertScrollBar.Range'#3#161#2#11'BorderIcons'
+  'TPF0'#6'TForm1'#5'Form1'#4'Left'#3'^'#2#6'Height'#3#162#2#3'Top'#2':'#5'Widt'
+  +'h'#3'B'#3#18'HorzScrollBar.Page'#3'I'#3#19'HorzScrollBar.Range'#3'8'#3#18'V'
+  +'ertScrollBar.Page'#3#179#2#19'VertScrollBar.Range'#3#161#2#11'BorderIcons'
   +#11#12'biSystemMenu'#10'biMinimize'#0#11'BorderStyle'#7#8'bsSingle'#7'Captio'
   +'n'#6'iHydroBuddy v1.8 - Programmed and Designed by Dr. Daniel Fernandez Ph.'
   +'D at http://scienceinhydroponics.com'#12'ClientHeight'#3#162#2#11'ClientWid'
@@ -354,38 +354,38 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +#192#0#255#255#255#255#255#255#192#0#255#255#255#255#255#255#192#0#255#255
   +#255#255#255#255#192#0#255#255#255#255#255#255#192#0#255#255#255#255#255#255
   +#192#0#19'OnWindowStateChange'#7#21'FormWindowStateChange'#14'ParentBiDiMode'
-  +#8#8'Position'#7#15'poDesktopCenter'#10'LCLVersion'#6#7'2.0.8.0'#7'Visible'#9
-  +#0#12'TPageControl'#12'PageControl1'#4'Left'#2#0#6'Height'#3#161#2#3'Top'#2#0
-  +#5'Width'#3'B'#3#10'ActivePage'#7#9'TabSheet1'#10'ParentFont'#8#8'TabIndex'#2
-  +#1#8'TabOrder'#2#0#0#9'TTabSheet'#9'TabSheet4'#7'Caption'#6#7'Welcome'#12'Cl'
-  +'ientHeight'#3#133#2#11'ClientWidth'#3':'#3#0#12'TPageControl'#12'PageContro'
-  +'l2'#4'Left'#2#0#6'Height'#3#136#2#3'Top'#2#0#5'Width'#3'<'#3#10'ActivePage'
-  +#7#9'TabSheet5'#8'TabIndex'#2#0#8'TabOrder'#2#0#0#9'TTabSheet'#9'TabSheet5'#7
-  +'Caption'#6#12'Introduction'#12'ClientHeight'#3'l'#2#11'ClientWidth'#3'4'#3#0
-  +#6'TImage'#6'Image1'#4'Left'#2#0#6'Height'#3's'#2#3'Top'#2#247#5'Width'#3'j'
-  +#3#8'AutoSize'#9#12'Picture.Data'#10#211#137#0#0#23'TPortableNetworkGraphic'
-  +#183#137#0#0#137'PNG'#13#10#26#10#0#0#0#13'IHDR'#0#0#3'j'#0#0#2's'#8#2#0#0#0
-  +#241#231'w'#187#0#0#0#9'pHYs'#0#0#14#196#0#0#14#196#1#149'+'#14#27#0#0#0#7't'
-  +'IME'#7#221#2#20#1#5#24#168#22'0'#221#0#0#0#7'tEXtAuthor'#0#169#174#204'H'#0
-  +#0#0#12'tEXtDescription'#0#19#9'!#'#0#0#0#10'tEXtCopyright'#0#172#15#204':'#0
-  +#0#0#14'tEXtCreation time'#0'5'#247#15#9#0#0#0#9'tEXtSoftware'#0']p'#255':'#0
-  +#0#0#11'tEXtDisclaimer'#0#183#192#180#143#0#0#0#8'tEXtWarning'#0#192#27#230
-  +#135#0#0#0#7'tEXtSource'#0#245#255#131#235#0#0#0#8'tEXtComment'#0#246#204#150
-  +#191#0#0#0#6'tEXtTitle'#0#168#238#210''''#0#0' '#0'IDATx'#156#236#221#189'r'
-  +#163'<'#219#7#240#235'~'#231'9'#14#198'.<'#28#192'R3'#19#23#174#168'\.'#5'3i'
-  +'R'#185'q'#151'j'#233#210#185'q'#149'fg)'#220#186#162'r'#225#204'Rs'#2#140#11
-  +#178#156'H'#222#130'/!'#9#144'0'#254'H'#242#255#21#247#157'%B'#186'tI`'#25
-  +#176#243#223#199#199#7#1#0#0#0#0#168#249#191'['#7#0#0#0#0#0#159#9#150#143#0#0
-  +#0#0#160#1#203'G'#0#0#0#0#208#128#229'#'#0#0#0#0'h'#192#242#17#0#0#0#0'4`'
-  +#249#8#0#0#0#0#26#176'|'#4#0#0#0#0#13'X>'#2#0#0#0#128#6','#31#1#0#0#0'@'#3
-  +#150#143#0#0#0#0#160#1#203'G'#0#0#0#0#208#128#229'#'#0#0#0#0'h'#192#242#17#0
-  +#0#0#0'4`'#249#8#0#0#0#0#26#176'|'#4#0#0#0#0#13'X>'#2#0#0#0#128#6','#31#1#0#0
-  +#0'@'#3#150#143#0#0#0#0#160#1#203'G'#0#0#0#0#208#128#229'#'#0#0#0#0'h'#192
-  +#242#17#0#0#0#0'4`'#249#8#0#0#0#0#26#176'|'#4#0#0#0#0#13'X>'#2#0#0#0#128#6','
-  +#31#1#0#0#0'@'#3#150#143#0#0#0#0#160#1#203'G'#0#0#0#0#208#128#229'#'#0#0#0#0
-  +'h'#192#242#17#0#0#0#0'4`'#249#8#0#0#0#0#26#176'|'#4#0#0#0#0#13'X>'#2#0#0#0
-  +#128#134'/'#184'|'#140'|+'#231'G'#138#191#24#171#129';'#169#239#140'6'#174#17
-  ,#138'('#11'\'#171#228#6#153#250#142'U'#184#215#143#249'Zn3"'#0#163#187#205
+  +#8#8'Position'#7#15'poDesktopCenter'#10'LCLVersion'#6#8'2.0.11.0'#7'Visible'
+  +#9#0#12'TPageControl'#12'PageControl1'#4'Left'#2#0#6'Height'#3#161#2#3'Top'#2
+  +#0#5'Width'#3'B'#3#10'ActivePage'#7#9'TabSheet1'#10'ParentFont'#8#8'TabIndex'
+  +#2#1#8'TabOrder'#2#0#0#9'TTabSheet'#9'TabSheet4'#7'Caption'#6#7'Welcome'#12
+  +'ClientHeight'#3#133#2#11'ClientWidth'#3':'#3#0#12'TPageControl'#12'PageCont'
+  +'rol2'#4'Left'#2#0#6'Height'#3#136#2#3'Top'#2#0#5'Width'#3'<'#3#10'ActivePag'
+  +'e'#7#9'TabSheet5'#8'TabIndex'#2#0#8'TabOrder'#2#0#0#9'TTabSheet'#9'TabSheet'
+  +'5'#7'Caption'#6#12'Introduction'#12'ClientHeight'#3'j'#2#11'ClientWidth'#3
+  +'6'#3#0#6'TImage'#6'Image1'#4'Left'#2#0#6'Height'#3's'#2#3'Top'#2#247#5'Widt'
+  +'h'#3'j'#3#8'AutoSize'#9#12'Picture.Data'#10#211#137#0#0#23'TPortableNetwork'
+  +'Graphic'#183#137#0#0#137'PNG'#13#10#26#10#0#0#0#13'IHDR'#0#0#3'j'#0#0#2's'#8
+  +#2#0#0#0#241#231'w'#187#0#0#0#9'pHYs'#0#0#14#196#0#0#14#196#1#149'+'#14#27#0
+  +#0#0#7'tIME'#7#221#2#20#1#5#24#168#22'0'#221#0#0#0#7'tEXtAuthor'#0#169#174
+  +#204'H'#0#0#0#12'tEXtDescription'#0#19#9'!#'#0#0#0#10'tEXtCopyright'#0#172#15
+  +#204':'#0#0#0#14'tEXtCreation time'#0'5'#247#15#9#0#0#0#9'tEXtSoftware'#0']p'
+  +#255':'#0#0#0#11'tEXtDisclaimer'#0#183#192#180#143#0#0#0#8'tEXtWarning'#0#192
+  +#27#230#135#0#0#0#7'tEXtSource'#0#245#255#131#235#0#0#0#8'tEXtComment'#0#246
+  +#204#150#191#0#0#0#6'tEXtTitle'#0#168#238#210''''#0#0' '#0'IDATx'#156#236#221
+  +#189'r'#163'<'#219#7#240#235'~'#231'9'#14#198'.<'#28#192'R3'#19#23#174#168'\'
+  +'.'#5'3iR'#185'q'#151'j'#233#210#185'q'#149'fg)'#220#186#162'r'#225#204'Rs'#2
+  +#140#11#178#156'H'#222#130'/!'#9#144'0'#254'H'#242#255#21#247#157'%B'#186'tI'
+  +'`'#25#176#243#223#199#199#7#1#0#0#0#0#168#249#191'['#7#0#0#0#0#0#159#9#150
+  +#143#0#0#0#0#160#1#203'G'#0#0#0#0#208#128#229'#'#0#0#0#0'h'#192#242#17#0#0#0
+  +#0'4`'#249#8#0#0#0#0#26#176'|'#4#0#0#0#0#13'X>'#2#0#0#0#128#6','#31#1#0#0#0
+  +'@'#3#150#143#0#0#0#0#160#1#203'G'#0#0#0#0#208#128#229'#'#0#0#0#0'h'#192#242
+  +#17#0#0#0#0'4`'#249#8#0#0#0#0#26#176'|'#4#0#0#0#0#13'X>'#2#0#0#0#128#6','#31
+  +#1#0#0#0'@'#3#150#143#0#0#0#0#160#1#203'G'#0#0#0#0#208#128#229'#'#0#0#0#0'h'
+  +#192#242#17#0#0#0#0'4`'#249#8#0#0#0#0#26#176'|'#4#0#0#0#0#13'X>'#2#0#0#0#128
+  +#6','#31#1#0#0#0'@'#3#150#143#0#0#0#0#160#1#203'G'#0#0#0#0#208#128#229'#'#0#0
+  +#0#0'h'#192#242#17#0#0#0#0'4`'#249#8#0#0#0#0#26#176'|'#4#0#0#0#0#13'X>'#2#0#0
+  +#0#128#134'/'#184'|'#140'|+'#231'G'#138#191#24#171#129';'#169#239#140'6'#174
+  ,#17#138'('#11'\'#171#228#6#153#250#142'U'#184#215#143#249'Zn3"'#0#163#187#205
   +#209'Z'#157'\'#180#206','#215'u'#185#131#252'^_'#243#198#244#13'^'#5#238#213
   +#23'\>'#194''''#147#189#29#146#234#31#201#225'M'#241','#159#5#238':d'#254'mN'
   +'''cF'#5#0#163#185#230#209#26#249'XC'#140#224'S'#164#17#175#2#183#244#191'['
@@ -29772,107 +29772,105 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +#12#0#0#0#192#19#16#150#1#0#0#0'x'#2#194'2'#0#0#0#0'O@X'#6#0#0#0#224#9#8#203
   +#0#0#0#0'<'#1'a'#25#0#0#0#128''' ,'#3#0#0#0#240#132#255#15#190'"'#131#127'-;'
   +#3#228#0#0#0#0'IEND'#174'B`'#130#0#0#0#0#0#9'TTabSheet'#9'TabSheet1'#7'Capti'
-  +'on'#6#9'Main Page'#12'ClientHeight'#3#133#2#11'ClientWidth'#3':'#3#14'Paren'
-  +'tShowHint'#8#8'ShowHint'#9#0#6'TLabel'#6'Label1'#4'Left'#2','#6'Height'#2#15
-  +#3'Top'#2'd'#5'Width'#2'1'#7'Caption'#6#8'N (NO3-)'#11'ParentColor'#8#10'Par'
-  +'entFont'#8#0#0#6'TLabel'#6'Label2'#4'Left'#2'V'#6'Height'#2#15#3'Top'#3#196
-  +#0#5'Width'#2#7#7'Caption'#6#1'K'#11'ParentColor'#8#10'ParentFont'#8#0#0#6'T'
-  +'Label'#6'Label3'#4'Left'#2'V'#6'Height'#2#15#3'Top'#3#163#0#5'Width'#2#7#7
+  +'on'#6#9'Main Page'#12'ClientHeight'#3#131#2#11'ClientWidth'#3'<'#3#14'Paren'
+  +'tShowHint'#8#8'ShowHint'#9#0#6'TLabel'#6'Label1'#4'Left'#2','#6'Height'#2#16
+  +#3'Top'#2'd'#5'Width'#2'9'#7'Caption'#6#8'N (NO3-)'#11'ParentColor'#8#10'Par'
+  +'entFont'#8#0#0#6'TLabel'#6'Label2'#4'Left'#2'V'#6'Height'#2#16#3'Top'#3#196
+  +#0#5'Width'#2#8#7'Caption'#6#1'K'#11'ParentColor'#8#10'ParentFont'#8#0#0#6'T'
+  +'Label'#6'Label3'#4'Left'#2'V'#6'Height'#2#16#3'Top'#3#163#0#5'Width'#2#8#7
   +'Caption'#6#1'P'#11'ParentColor'#8#10'ParentFont'#8#0#0#6'TLabel'#6'Label4'#4
-  +'Left'#2'K'#6'Height'#2#15#3'Top'#3#231#0#5'Width'#2#18#7'Caption'#6#2'Mg'#11
+  +'Left'#2'K'#6'Height'#2#16#3'Top'#3#231#0#5'Width'#2#19#7'Caption'#6#2'Mg'#11
   +'ParentColor'#8#10'ParentFont'#8#0#0#6'TLabel'#6'Label5'#4'Left'#2'O'#6'Heig'
-  +'ht'#2#15#3'Top'#3#3#1#5'Width'#2#14#7'Caption'#6#2'Ca'#11'ParentColor'#8#10
-  +'ParentFont'#8#0#0#6'TLabel'#6'Label6'#4'Left'#2'W'#6'Height'#2#15#3'Top'#3
-  +''''#1#5'Width'#2#6#7'Caption'#6#1'S'#11'ParentColor'#8#10'ParentFont'#8#0#0
-  +#6'TLabel'#6'Label7'#4'Left'#2'Q'#6'Height'#2#15#3'Top'#3'G'#1#5'Width'#2#12
+  +'ht'#2#16#3'Top'#3#3#1#5'Width'#2#16#7'Caption'#6#2'Ca'#11'ParentColor'#8#10
+  +'ParentFont'#8#0#0#6'TLabel'#6'Label6'#4'Left'#2'W'#6'Height'#2#16#3'Top'#3
+  +''''#1#5'Width'#2#8#7'Caption'#6#1'S'#11'ParentColor'#8#10'ParentFont'#8#0#0
+  +#6'TLabel'#6'Label7'#4'Left'#2'Q'#6'Height'#2#16#3'Top'#3'G'#1#5'Width'#2#15
   +#7'Caption'#6#2'Fe'#11'ParentColor'#8#10'ParentFont'#8#0#0#6'TLabel'#6'Label'
-  +'8'#4'Left'#2'O'#6'Height'#2#15#3'Top'#3'c'#1#5'Width'#2#14#7'Caption'#6#2'Z'
+  +'8'#4'Left'#2'O'#6'Height'#2#16#3'Top'#3'c'#1#5'Width'#2#16#7'Caption'#6#2'Z'
   +'n'#11'ParentColor'#8#10'ParentFont'#8#0#0#6'TLabel'#6'Label9'#4'Left'#2'V'#6
-  +'Height'#2#15#3'Top'#3#135#1#5'Width'#2#7#7'Caption'#6#1'B'#11'ParentColor'#8
-  +#10'ParentFont'#8#0#0#6'TLabel'#7'Label10'#4'Left'#2'N'#6'Height'#2#15#3'Top'
-  +#3#206#1#5'Width'#2#15#7'Caption'#6#2'Cu'#11'ParentColor'#8#10'ParentFont'#8
-  +#0#0#6'TLabel'#7'Label11'#4'Left'#2'K'#6'Height'#2#15#3'Top'#3#234#1#5'Width'
-  +#2#18#7'Caption'#6#2'Mo'#11'ParentColor'#8#10'ParentFont'#8#0#0#6'TLabel'#7
-  +'Label12'#4'Left'#2'N'#6'Height'#2#15#3'Top'#3#11#2#5'Width'#2#15#7'Caption'
-  +#6#2'Na'#11'ParentColor'#8#10'ParentFont'#8#0#0#6'TLabel'#7'Label13'#4'Left'
-  +#2'T'#6'Height'#2#15#3'Top'#3'.'#2#5'Width'#2#9#7'Caption'#6#2'Si'#11'Parent'
-  +'Color'#8#10'ParentFont'#8#7'Visible'#8#0#0#6'TLabel'#7'Label14'#4'Left'#2'R'
-  +#6'Height'#2#15#3'Top'#3'J'#2#5'Width'#2#11#7'Caption'#6#2'Cl'#11'ParentColo'
-  +'r'#8#10'ParentFont'#8#0#0#6'TLabel'#7'Label45'#4'Left'#2'6'#6'Height'#2#15#3
-  +'Top'#2'('#5'Width'#2'+'#7'Caption'#6#7'Element'#11'ParentColor'#8#10'Parent'
-  +'Font'#8#0#0#6'TLabel'#7'Label55'#4'Left'#3#140#0#6'Height'#2#15#3'Top'#2'('
-  +#5'Width'#2'#'#7'Caption'#6#7'Target '#11'ParentColor'#8#10'ParentFont'#8#0#0
-  +#6'TLabel'#7'RLabel1'#4'Left'#3#254#0#6'Height'#2#15#3'Top'#2'd'#5'Width'#2#6
-  +#7'Caption'#6#1'0'#11'ParentColor'#8#10'ParentFont'#8#0#0#6'TLabel'#7'RLabel'
-  +'3'#4'Left'#3#254#0#6'Height'#2#15#3'Top'#3#163#0#5'Width'#2#6#7'Caption'#6#1
-  +'0'#11'ParentColor'#8#10'ParentFont'#8#0#0#6'TLabel'#7'RLabel2'#4'Left'#3#254
-  +#0#6'Height'#2#15#3'Top'#3#196#0#5'Width'#2#6#7'Caption'#6#1'0'#11'ParentCol'
-  +'or'#8#10'ParentFont'#8#0#0#6'TLabel'#7'RLabel4'#4'Left'#3#254#0#6'Height'#2
-  +#15#3'Top'#3#231#0#5'Width'#2#6#7'Caption'#6#1'0'#11'ParentColor'#8#10'Paren'
-  +'tFont'#8#0#0#6'TLabel'#7'RLabel5'#4'Left'#3#254#0#6'Height'#2#15#3'Top'#3#3
-  +#1#5'Width'#2#6#7'Caption'#6#1'0'#11'ParentColor'#8#10'ParentFont'#8#0#0#6'T'
-  +'Label'#7'RLabel6'#4'Left'#3#254#0#6'Height'#2#15#3'Top'#3''''#1#5'Width'#2#6
-  +#7'Caption'#6#1'0'#11'ParentColor'#8#10'ParentFont'#8#0#0#6'TLabel'#7'RLabel'
-  +'7'#4'Left'#3#254#0#6'Height'#2#15#3'Top'#3'G'#1#5'Width'#2#6#7'Caption'#6#1
-  +'0'#11'ParentColor'#8#10'ParentFont'#8#0#0#6'TLabel'#7'RLabel8'#4'Left'#3#254
-  +#0#6'Height'#2#15#3'Top'#3'c'#1#5'Width'#2#6#7'Caption'#6#1'0'#11'ParentColo'
-  +'r'#8#10'ParentFont'#8#0#0#6'TLabel'#7'RLabel9'#4'Left'#3#254#0#6'Height'#2
-  +#15#3'Top'#3#135#1#5'Width'#2#6#7'Caption'#6#1'0'#11'ParentColor'#8#10'Paren'
-  +'tFont'#8#0#0#6'TLabel'#8'RLabel10'#4'Left'#3#254#0#6'Height'#2#15#3'Top'#3
-  +#206#1#5'Width'#2#6#7'Caption'#6#1'0'#11'ParentColor'#8#10'ParentFont'#8#0#0
-  +#6'TLabel'#8'RLabel11'#4'Left'#3#254#0#6'Height'#2#15#3'Top'#3#234#1#5'Width'
-  +#2#6#7'Caption'#6#1'0'#11'ParentColor'#8#10'ParentFont'#8#0#0#6'TLabel'#8'RL'
-  +'abel12'#4'Left'#3#254#0#6'Height'#2#15#3'Top'#3#14#2#5'Width'#2#6#7'Caption'
-  +#6#1'0'#11'ParentColor'#8#10'ParentFont'#8#0#0#6'TLabel'#8'RLabel13'#4'Left'
-  +#3#254#0#6'Height'#2#15#3'Top'#3'.'#2#5'Width'#2#6#7'Caption'#6#1'0'#11'Pare'
-  ,'ntColor'#8#10'ParentFont'#8#0#0#6'TLabel'#8'RLabel14'#4'Left'#3#254#0#6'Hei'
-  +'ght'#2#15#3'Top'#3'J'#2#5'Width'#2#6#7'Caption'#6#1'0'#11'ParentColor'#8#10
-  +'ParentFont'#8#0#0#6'TLabel'#7'Label33'#4'Left'#3#244#0#6'Height'#2#15#3'Top'
-  +#2'('#5'Width'#2' '#7'Caption'#6#6'Result'#11'ParentColor'#8#10'ParentFont'#8
-  +#0#0#6'TLabel'#7'Label35'#4'Left'#3#140#0#6'Height'#2#15#3'Top'#2'<'#5'Width'
-  +#2'C'#7'Caption'#6#11'Conc. (ppm)'#11'ParentColor'#8#10'ParentFont'#8#0#0#6
-  +'TLabel'#7'Label38'#4'Left'#3#243#0#6'Height'#2#15#3'Top'#2'<'#5'Width'#2'!'
-  +#7'Caption'#6#5'(ppm)'#11'ParentColor'#8#10'ParentFont'#8#0#0#6'TLabel'#7'La'
-  +'bel15'#4'Left'#2'K'#6'Height'#2#15#3'Top'#3#166#1#5'Width'#2#18#7'Caption'#6
-  +#2'Mn'#11'ParentColor'#8#10'ParentFont'#8#0#0#6'TLabel'#8'RLabel15'#4'Left'#3
-  +#254#0#6'Height'#2#15#3'Top'#3#166#1#5'Width'#2#6#7'Caption'#6#1'0'#11'Paren'
-  +'tColor'#8#10'ParentFont'#8#0#0#6'TLabel'#7'Label16'#4'Left'#2','#6'Height'#2
-  +#15#3'Top'#3#128#0#5'Width'#2'4'#7'Caption'#6#8'N (NH4+)'#11'ParentColor'#8
-  +#10'ParentFont'#8#0#0#6'TLabel'#8'RLabel16'#4'Left'#3#254#0#6'Height'#2#15#3
-  +'Top'#3#128#0#5'Width'#2#6#7'Caption'#6#1'0'#11'ParentColor'#8#10'ParentFont'
-  +#8#0#0#5'TEdit'#5'Edit1'#4'Left'#3#132#0#6'Height'#2#23#3'Top'#2'`'#5'Width'
-  +#2'X'#10'ParentFont'#8#8'TabOrder'#2#0#4'Text'#6#3'260'#0#0#5'TEdit'#5'Edit3'
-  +#4'Left'#3#132#0#6'Height'#2#23#3'Top'#3#159#0#5'Width'#2'X'#10'ParentFont'#8
-  +#8'TabOrder'#2#1#4'Text'#6#2'31'#0#0#5'TEdit'#5'Edit2'#4'Left'#3#132#0#6'Hei'
-  +'ght'#2#23#3'Top'#3#195#0#5'Width'#2'X'#10'ParentFont'#8#8'TabOrder'#2#2#4'T'
-  +'ext'#6#3'235'#0#0#5'TEdit'#5'Edit4'#4'Left'#3#132#0#6'Height'#2#23#3'Top'#3
-  +#227#0#5'Width'#2'X'#10'ParentFont'#8#8'TabOrder'#2#3#4'Text'#6#2'48'#0#0#5
-  +'TEdit'#5'Edit5'#4'Left'#3#132#0#6'Height'#2#23#3'Top'#3#255#0#5'Width'#2'X'
-  +#10'ParentFont'#8#8'TabOrder'#2#4#4'Text'#6#3'200'#0#0#5'TEdit'#5'Edit6'#4'L'
-  +'eft'#3#132#0#6'Height'#2#23#3'Top'#3'#'#1#5'Width'#2'X'#10'ParentFont'#8#8
-  +'TabOrder'#2#5#4'Text'#6#2'64'#0#0#5'TEdit'#5'Edit7'#4'Left'#3#132#0#6'Heigh'
-  +'t'#2#23#3'Top'#3'C'#1#5'Width'#2'X'#10'ParentFont'#8#8'TabOrder'#2#6#4'Text'
-  +#6#3'2.5'#0#0#5'TEdit'#5'Edit8'#4'Left'#3#132#0#6'Height'#2#23#3'Top'#3'_'#1
-  +#5'Width'#2'X'#10'ParentFont'#8#8'TabOrder'#2#7#4'Text'#6#4'0.05'#0#0#5'TEdi'
-  +'t'#5'Edit9'#4'Left'#3#132#0#6'Height'#2#23#3'Top'#3#131#1#5'Width'#2'X'#10
-  +'ParentFont'#8#8'TabOrder'#2#8#4'Text'#6#3'0.5'#0#0#5'TEdit'#6'Edit10'#4'Lef'
-  +'t'#3#132#0#6'Height'#2#23#3'Top'#3#202#1#5'Width'#2'X'#10'ParentFont'#8#8'T'
-  +'abOrder'#2#9#4'Text'#6#4'0.02'#0#0#5'TEdit'#6'Edit11'#4'Left'#3#132#0#6'Hei'
-  +'ght'#2#23#3'Top'#3#230#1#5'Width'#2'X'#10'ParentFont'#8#8'TabOrder'#2#10#4
-  +'Text'#6#4'0.01'#0#0#5'TEdit'#6'Edit12'#4'Left'#3#132#0#6'Height'#2#23#3'Top'
-  +#3#10#2#5'Width'#2'X'#10'ParentFont'#8#8'TabOrder'#2#11#4'Text'#6#1'0'#0#0#5
-  +'TEdit'#6'Edit13'#4'Left'#3#132#0#6'Height'#2#23#3'Top'#3'*'#2#5'Width'#2'X'
-  +#10'ParentFont'#8#8'TabOrder'#2#12#4'Text'#6#1'0'#0#0#5'TEdit'#6'Edit14'#4'L'
-  +'eft'#3#132#0#6'Height'#2#23#3'Top'#3'F'#2#5'Width'#2'X'#10'ParentFont'#8#8
+  +'Height'#2#16#3'Top'#3#135#1#5'Width'#2#8#7'Caption'#6#1'B'#11'ParentColor'#8
+  +#10'ParentFont'#8#0#0#6'TLabel'#7'Label10'#4'Left'#2'N'#6'Height'#2#16#3'Top'
+  +#3#206#1#5'Width'#2#17#7'Caption'#6#2'Cu'#11'ParentColor'#8#10'ParentFont'#8
+  +#0#0#6'TLabel'#7'Label11'#4'Left'#2'K'#6'Height'#2#16#3'Top'#3#234#1#5'Width'
+  +#2#19#7'Caption'#6#2'Mo'#11'ParentColor'#8#10'ParentFont'#8#0#0#6'TLabel'#7
+  +'Label12'#4'Left'#2'N'#6'Height'#2#16#3'Top'#3#11#2#5'Width'#2#17#7'Caption'
+  +#6#2'Na'#11'ParentColor'#8#10'ParentFont'#8#0#0#6'TLabel'#7'Label14'#4'Left'
+  +#2'R'#6'Height'#2#16#3'Top'#3'J'#2#5'Width'#2#12#7'Caption'#6#2'Cl'#11'Paren'
+  +'tColor'#8#10'ParentFont'#8#0#0#6'TLabel'#7'Label45'#4'Left'#2'6'#6'Height'#2
+  +#16#3'Top'#2'('#5'Width'#2'1'#7'Caption'#6#7'Element'#11'ParentColor'#8#10'P'
+  +'arentFont'#8#0#0#6'TLabel'#7'Label55'#4'Left'#3#140#0#6'Height'#2#16#3'Top'
+  +#2'('#5'Width'#2'*'#7'Caption'#6#7'Target '#11'ParentColor'#8#10'ParentFont'
+  +#8#0#0#6'TLabel'#7'RLabel1'#4'Left'#3#254#0#6'Height'#2#16#3'Top'#2'd'#5'Wid'
+  +'th'#2#8#7'Caption'#6#1'0'#11'ParentColor'#8#10'ParentFont'#8#0#0#6'TLabel'#7
+  +'RLabel3'#4'Left'#3#254#0#6'Height'#2#16#3'Top'#3#163#0#5'Width'#2#8#7'Capti'
+  +'on'#6#1'0'#11'ParentColor'#8#10'ParentFont'#8#0#0#6'TLabel'#7'RLabel2'#4'Le'
+  +'ft'#3#254#0#6'Height'#2#16#3'Top'#3#196#0#5'Width'#2#8#7'Caption'#6#1'0'#11
+  +'ParentColor'#8#10'ParentFont'#8#0#0#6'TLabel'#7'RLabel4'#4'Left'#3#254#0#6
+  +'Height'#2#16#3'Top'#3#231#0#5'Width'#2#8#7'Caption'#6#1'0'#11'ParentColor'#8
+  +#10'ParentFont'#8#0#0#6'TLabel'#7'RLabel5'#4'Left'#3#254#0#6'Height'#2#16#3
+  +'Top'#3#3#1#5'Width'#2#8#7'Caption'#6#1'0'#11'ParentColor'#8#10'ParentFont'#8
+  +#0#0#6'TLabel'#7'RLabel6'#4'Left'#3#254#0#6'Height'#2#16#3'Top'#3''''#1#5'Wi'
+  +'dth'#2#8#7'Caption'#6#1'0'#11'ParentColor'#8#10'ParentFont'#8#0#0#6'TLabel'
+  +#7'RLabel7'#4'Left'#3#254#0#6'Height'#2#16#3'Top'#3'G'#1#5'Width'#2#8#7'Capt'
+  +'ion'#6#1'0'#11'ParentColor'#8#10'ParentFont'#8#0#0#6'TLabel'#7'RLabel8'#4'L'
+  +'eft'#3#254#0#6'Height'#2#16#3'Top'#3'c'#1#5'Width'#2#8#7'Caption'#6#1'0'#11
+  +'ParentColor'#8#10'ParentFont'#8#0#0#6'TLabel'#7'RLabel9'#4'Left'#3#254#0#6
+  +'Height'#2#16#3'Top'#3#135#1#5'Width'#2#8#7'Caption'#6#1'0'#11'ParentColor'#8
+  +#10'ParentFont'#8#0#0#6'TLabel'#8'RLabel10'#4'Left'#3#254#0#6'Height'#2#16#3
+  +'Top'#3#206#1#5'Width'#2#8#7'Caption'#6#1'0'#11'ParentColor'#8#10'ParentFont'
+  +#8#0#0#6'TLabel'#8'RLabel11'#4'Left'#3#254#0#6'Height'#2#16#3'Top'#3#234#1#5
+  +'Width'#2#8#7'Caption'#6#1'0'#11'ParentColor'#8#10'ParentFont'#8#0#0#6'TLabe'
+  +'l'#8'RLabel12'#4'Left'#3#254#0#6'Height'#2#16#3'Top'#3#14#2#5'Width'#2#8#7
+  +'Caption'#6#1'0'#11'ParentColor'#8#10'ParentFont'#8#0#0#6'TLabel'#8'RLabel13'
+  +#4'Left'#3#254#0#6'Height'#2#16#3'Top'#3'.'#2#5'Width'#2#8#7'Caption'#6#1'0'
+  +#11'ParentColor'#8#10'ParentFont'#8#0#0#6'TLabel'#8'RLabel14'#4'Left'#3#254#0
+  +#6'Height'#2#16#3'Top'#3'J'#2#5'Width'#2#8#7'Caption'#6#1'0'#11'ParentColor'
+  ,#8#10'ParentFont'#8#0#0#6'TLabel'#7'Label33'#4'Left'#3#244#0#6'Height'#2#16#3
+  +'Top'#2'('#5'Width'#2'&'#7'Caption'#6#6'Result'#11'ParentColor'#8#10'ParentF'
+  +'ont'#8#0#0#6'TLabel'#7'Label35'#4'Left'#3#140#0#6'Height'#2#16#3'Top'#2'<'#5
+  +'Width'#2'L'#7'Caption'#6#11'Conc. (ppm)'#11'ParentColor'#8#10'ParentFont'#8
+  +#0#0#6'TLabel'#7'Label38'#4'Left'#3#243#0#6'Height'#2#16#3'Top'#2'<'#5'Width'
+  +#2'%'#7'Caption'#6#5'(ppm)'#11'ParentColor'#8#10'ParentFont'#8#0#0#6'TLabel'
+  +#7'Label15'#4'Left'#2'K'#6'Height'#2#16#3'Top'#3#166#1#5'Width'#2#19#7'Capti'
+  +'on'#6#2'Mn'#11'ParentColor'#8#10'ParentFont'#8#0#0#6'TLabel'#8'RLabel15'#4
+  +'Left'#3#254#0#6'Height'#2#16#3'Top'#3#166#1#5'Width'#2#8#7'Caption'#6#1'0'
+  +#11'ParentColor'#8#10'ParentFont'#8#0#0#6'TLabel'#7'Label16'#4'Left'#2','#6
+  +'Height'#2#16#3'Top'#3#128#0#5'Width'#2';'#7'Caption'#6#8'N (NH4+)'#11'Paren'
+  +'tColor'#8#10'ParentFont'#8#0#0#6'TLabel'#8'RLabel16'#4'Left'#3#254#0#6'Heig'
+  +'ht'#2#16#3'Top'#3#128#0#5'Width'#2#8#7'Caption'#6#1'0'#11'ParentColor'#8#10
+  +'ParentFont'#8#0#0#5'TEdit'#5'Edit1'#4'Left'#3#132#0#6'Height'#2#22#3'Top'#2
+  +'`'#5'Width'#2'X'#10'ParentFont'#8#8'TabOrder'#2#0#4'Text'#6#3'260'#0#0#5'TE'
+  +'dit'#5'Edit3'#4'Left'#3#132#0#6'Height'#2#22#3'Top'#3#159#0#5'Width'#2'X'#10
+  +'ParentFont'#8#8'TabOrder'#2#1#4'Text'#6#2'31'#0#0#5'TEdit'#5'Edit2'#4'Left'
+  +#3#132#0#6'Height'#2#22#3'Top'#3#195#0#5'Width'#2'X'#10'ParentFont'#8#8'TabO'
+  +'rder'#2#2#4'Text'#6#3'235'#0#0#5'TEdit'#5'Edit4'#4'Left'#3#132#0#6'Height'#2
+  +#22#3'Top'#3#227#0#5'Width'#2'X'#10'ParentFont'#8#8'TabOrder'#2#3#4'Text'#6#2
+  +'48'#0#0#5'TEdit'#5'Edit5'#4'Left'#3#132#0#6'Height'#2#22#3'Top'#3#255#0#5'W'
+  +'idth'#2'X'#10'ParentFont'#8#8'TabOrder'#2#4#4'Text'#6#3'200'#0#0#5'TEdit'#5
+  +'Edit6'#4'Left'#3#132#0#6'Height'#2#22#3'Top'#3'#'#1#5'Width'#2'X'#10'Parent'
+  +'Font'#8#8'TabOrder'#2#5#4'Text'#6#2'64'#0#0#5'TEdit'#5'Edit7'#4'Left'#3#132
+  +#0#6'Height'#2#22#3'Top'#3'C'#1#5'Width'#2'X'#10'ParentFont'#8#8'TabOrder'#2
+  +#6#4'Text'#6#3'2.5'#0#0#5'TEdit'#5'Edit8'#4'Left'#3#132#0#6'Height'#2#22#3'T'
+  +'op'#3'_'#1#5'Width'#2'X'#10'ParentFont'#8#8'TabOrder'#2#7#4'Text'#6#4'0.05'
+  +#0#0#5'TEdit'#5'Edit9'#4'Left'#3#132#0#6'Height'#2#22#3'Top'#3#131#1#5'Width'
+  +#2'X'#10'ParentFont'#8#8'TabOrder'#2#8#4'Text'#6#3'0.5'#0#0#5'TEdit'#6'Edit1'
+  +'0'#4'Left'#3#132#0#6'Height'#2#22#3'Top'#3#202#1#5'Width'#2'X'#10'ParentFon'
+  +'t'#8#8'TabOrder'#2#9#4'Text'#6#4'0.02'#0#0#5'TEdit'#6'Edit11'#4'Left'#3#132
+  +#0#6'Height'#2#22#3'Top'#3#230#1#5'Width'#2'X'#10'ParentFont'#8#8'TabOrder'#2
+  +#10#4'Text'#6#4'0.01'#0#0#5'TEdit'#6'Edit12'#4'Left'#3#132#0#6'Height'#2#22#3
+  +'Top'#3#10#2#5'Width'#2'X'#10'ParentFont'#8#8'TabOrder'#2#11#4'Text'#6#1'0'#0
+  +#0#5'TEdit'#6'Edit13'#4'Left'#3#132#0#6'Height'#2#22#3'Top'#3'*'#2#5'Width'#2
+  +'X'#10'ParentFont'#8#8'TabOrder'#2#12#4'Text'#6#1'0'#0#0#5'TEdit'#6'Edit14'#4
+  +'Left'#3#132#0#6'Height'#2#22#3'Top'#3'F'#2#5'Width'#2'X'#10'ParentFont'#8#8
   +'TabOrder'#2#13#4'Text'#6#1'0'#0#0#6'TPanel'#6'Panel1'#4'Left'#3'8'#1#6'Heig'
   +'ht'#2'f'#3'Top'#3#4#2#5'Width'#3#225#1#12'ClientHeight'#2'f'#11'ClientWidth'
   +#3#225#1#10'ParentFont'#8#8'TabOrder'#2#14#0#6'TLabel'#7'Label37'#4'Left'#2
-  +#23#6'Height'#2#15#3'Top'#2#8#5'Width'#2'W'#7'Caption'#6#16'Calculation Type'
+  +#23#6'Height'#2#16#3'Top'#2#8#5'Width'#2'e'#7'Caption'#6#16'Calculation Type'
   +#11'ParentColor'#8#0#0#12'TRadioButton'#12'RadioButton4'#4'Left'#2#24#6'Heig'
-  +'ht'#2#19#3'Top'#2'('#5'Width'#3#174#0#7'Caption'#6#28'Input Desired Concent'
+  +'ht'#2#18#3'Top'#2'('#5'Width'#3#188#0#7'Caption'#6#28'Input Desired Concent'
   +'rations'#7'Checked'#9#8'OnChange'#7#18'RadioButton4Change'#8'TabOrder'#2#1#7
-  +'TabStop'#9#0#0#12'TRadioButton'#12'RadioButton5'#4'Left'#2#24#6'Height'#2#19
-  +#3'Top'#2'@'#5'Width'#3#179#0#7'Caption'#6#28'Concentrations from  Weights'#8
+  +'TabStop'#9#0#0#12'TRadioButton'#12'RadioButton5'#4'Left'#2#24#6'Height'#2#18
+  +#3'Top'#2'@'#5'Width'#3#191#0#7'Caption'#6#28'Concentrations from  Weights'#8
   +'OnChange'#7#18'RadioButton5Change'#8'TabOrder'#2#0#0#0#7'TButton'#8'Button1'
   +'0'#4'Left'#3#248#0#6'Height'#2#25#4'Hint'#6'zCopy weights resulting from a '
   +'formulation calculation to the database (to use within a weights to formula'
@@ -29889,9 +29887,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0
   +#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0
   +#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0
+  +#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0
+  +#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0
   ,#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0
-  +#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0
-  +#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0
   +#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0
   +#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0
   +#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0
@@ -29953,9 +29951,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +#18#140'\'#254#19#142'^'#255#31#31'!'#29#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0
   +#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0
   +#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#2#17#12#2'DvcS)'#139
-  ,'`'#255'*'#136'_'#254#23'}P'#255#16'zK'#255#15'yJ'#255#22'tL'#237#9#0#0#10#0
+  +'`'#255'*'#136'_'#254#23'}P'#255#16'zK'#255#15'yJ'#255#22'tL'#237#9#0#0#10#0
   +#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0
-  +#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0
+  ,#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0
   +#0#0#0#0#0#0#0#0#0#0#0#0#0#0#1'Au^j;'#137'c'#255'(yQ'#255#19'l@'#255#11'f9'
   +#255#22'a;'#219#0#0#0#8#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0
   +#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0
@@ -29990,64 +29988,64 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +#12'Button2Click'#10'ParentFont'#8#8'TabOrder'#2#3#0#0#0#6'TPanel'#6'Panel2'
   +#4'Left'#3'8'#1#6'Height'#2'j'#3'Top'#3#144#1#5'Width'#3#225#1#12'ClientHeig'
   +'ht'#2'j'#11'ClientWidth'#3#225#1#10'ParentFont'#8#8'TabOrder'#2#15#0#6'TLab'
-  +'el'#7'Label34'#4'Left'#2#23#6'Height'#2#15#3'Top'#2#8#5'Width'#3#134#0#7'Ca'
+  +'el'#7'Label34'#4'Left'#2#23#6'Height'#2#16#3'Top'#2#8#5'Width'#3#153#0#7'Ca'
   +'ption'#6#25'Solution Preparation type'#11'ParentColor'#8#0#0#12'TRadioButto'
-  +'n'#12'RadioButton6'#4'Left'#2#23#6'Height'#2#19#4'Hint'#6'9Choose this to c'
-  +'arry out A+B stock solution calculations '#3'Top'#2'$'#5'Width'#3#176#0#7'C'
+  +'n'#12'RadioButton6'#4'Left'#2#23#6'Height'#2#18#4'Hint'#6'9Choose this to c'
+  +'arry out A+B stock solution calculations '#3'Top'#2'$'#5'Width'#3#190#0#7'C'
   +'aption'#6#28'Concentrated A + B Solutions'#8'OnChange'#7#18'RadioButton6Cha'
   +'nge'#8'TabOrder'#2#2#0#0#12'TRadioButton'#12'RadioButton7'#4'Left'#3#222#0#6
-  +'Height'#2#19#4'Hint'#6'?Choose this if you want to add salts directly to yo'
-  +'ur reservoir'#3'Top'#2'$'#5'Width'#2'd'#7'Caption'#6#15'Direct Addition'#7
+  +'Height'#2#18#4'Hint'#6'?Choose this if you want to add salts directly to yo'
+  +'ur reservoir'#3'Top'#2'$'#5'Width'#2'k'#7'Caption'#6#15'Direct Addition'#7
   +'Checked'#9#8'OnChange'#7#18'RadioButton7Change'#8'TabOrder'#2#0#7'TabStop'#9
-  +#0#0#5'TEdit'#6'Edit17'#4'Left'#3#166#0#6'Height'#2#23#4'Hint'#6'nThis value'
+  +#0#0#5'TEdit'#6'Edit17'#4'Left'#3#166#0#6'Height'#2#22#4'Hint'#6'nThis value'
   +' determines how concentrated stock solutions are when compared to the final'
   +' reservoir concentrations'#3'Top'#2'D'#5'Width'#2'h'#7'Enabled'#8#8'TabOrde'
   +'r'#2#1#4'Text'#6#3'100'#0#0#7'TButton'#8'Button22'#4'Left'#3'5'#1#6'Height'
   +#2#24#4'Hint'#6'FChoose the element used as a degree of freedom within the c'
   +'alculations'#3'Top'#2#0#5'Width'#3#169#0#7'Caption'#6#24'Choose Degree of F'
   +'reedom'#7'OnClick'#7#13'Button22Click'#8'TabOrder'#2#3#0#0#9'TCheckBox'#9'C'
-  +'heckBox6'#4'Left'#3'5'#1#6'Height'#2#19#3'Top'#2'D'#5'Width'#3#140#0#7'Capt'
+  +'heckBox6'#4'Left'#3'5'#1#6'Height'#2#18#3'Top'#2'D'#5'Width'#3#150#0#7'Capt'
   +'ion'#6#23'Calculate liquids in mL'#8'TabOrder'#2#4#0#0#6'TLabel'#7'Label36'
-  +#4'Left'#2#30#6'Height'#2#15#4'Hint'#6'FMeasures the concentration ratio bet'
-  +'ween the stock and final solutions'#3'Top'#2'D'#5'Width'#2'p'#7'Caption'#6
-  +#20'Concentration Factor'#11'ParentColor'#8#0#0#0#6'TPanel'#6'Panel3'#4'Left'
-  +#3'8'#1#6'Height'#2'p'#3'Top'#3#24#1#5'Width'#3#187#0#12'ClientHeight'#2'p'
-  +#11'ClientWidth'#3#187#0#10'ParentFont'#8#8'TabOrder'#2#16#0#6'TLabel'#7'Lab'
-  +'el17'#4'Left'#2'!'#6'Height'#2#15#3'Top'#2#8#5'Width'#2'('#7'Caption'#6#6'V'
-  +'olume'#11'ParentColor'#8#0#0#5'TEdit'#6'Edit19'#4'Left'#2'!'#6'Height'#2#23
+  +#4'Left'#2#30#6'Height'#2#16#4'Hint'#6'FMeasures the concentration ratio bet'
+  +'ween the stock and final solutions'#3'Top'#2'D'#5'Width'#3#128#0#7'Caption'
+  +#6#20'Concentration Factor'#11'ParentColor'#8#0#0#0#6'TPanel'#6'Panel3'#4'Le'
+  +'ft'#3'8'#1#6'Height'#2'p'#3'Top'#3#24#1#5'Width'#3#187#0#12'ClientHeight'#2
+  +'p'#11'ClientWidth'#3#187#0#10'ParentFont'#8#8'TabOrder'#2#16#0#6'TLabel'#7
+  +'Label17'#4'Left'#2'!'#6'Height'#2#16#3'Top'#2#8#5'Width'#2'-'#7'Caption'#6#6
+  +'Volume'#11'ParentColor'#8#0#0#5'TEdit'#6'Edit19'#4'Left'#2'!'#6'Height'#2#22
   +#4'Hint'#6'uVolume used within the calculation (this can be reservoir or sto'
   +'ck solution volume depending on the calculation type)'#3'Top'#2#28#5'Width'
-  ,#3#131#0#8'TabOrder'#2#0#4'Text'#6#3'100'#0#0#12'TRadioButton'#12'RadioButto'
-  +'n1'#4'Left'#2'o'#6'Height'#2#19#4'Hint'#6#30'Changes input volume to liters'
-  +#3'Top'#2'8'#5'Width'#2'0'#7'Caption'#6#6'Liters'#7'Checked'#9#8'OnChange'#7
+  +#3#131#0#8'TabOrder'#2#0#4'Text'#6#3'100'#0#0#12'TRadioButton'#12'RadioButto'
+  +'n1'#4'Left'#2'o'#6'Height'#2#18#4'Hint'#6#30'Changes input volume to liters'
+  ,#3'Top'#2'8'#5'Width'#2'6'#7'Caption'#6#6'Liters'#7'Checked'#9#8'OnChange'#7
   +#18'RadioButton1Change'#8'TabOrder'#2#1#7'TabStop'#9#0#0#12'TRadioButton'#12
-  +'RadioButton2'#4'Left'#2'!'#6'Height'#2#19#4'Hint'#6#31'Changes input volume'
-  +' to gallons'#3'Top'#2'8'#5'Width'#2';'#7'Caption'#6#7'Gallons'#8'OnChange'#7
+  +'RadioButton2'#4'Left'#2'!'#6'Height'#2#18#4'Hint'#6#31'Changes input volume'
+  +' to gallons'#3'Top'#2'8'#5'Width'#2'@'#7'Caption'#6#7'Gallons'#8'OnChange'#7
   +#18'RadioButton2Change'#8'TabOrder'#2#2#0#0#12'TRadioButton'#12'RadioButton3'
-  +#4'Left'#2#31#6'Height'#2#19#4'Hint'#6'FChanges volume input to cubic meters'
-  +' ( one cubic meter is 1000 Liters)'#3'Top'#2'P'#5'Width'#2'Z'#7'Caption'#6
+  +#4'Left'#2#31#6'Height'#2#18#4'Hint'#6'FChanges volume input to cubic meters'
+  +' ( one cubic meter is 1000 Liters)'#3'Top'#2'P'#5'Width'#2'b'#7'Caption'#6
   +#12'Cubic Meters'#8'OnChange'#7#18'RadioButton3Change'#8'TabOrder'#2#3#0#0#0
   +#7'TButton'#7'Button5'#4'Left'#3#206#1#6'Height'#2#25#3'Top'#2#7#5'Width'#2
   +'X'#7'Caption'#6#9'Create DB'#7'Enabled'#8#7'OnClick'#7#12'Button5Click'#10
   +'ParentFont'#8#8'TabOrder'#2#17#7'Visible'#8#0#0#5'TEdit'#6'Edit15'#4'Left'#3
-  +#132#0#6'Height'#2#23#3'Top'#3#165#1#5'Width'#2'X'#10'ParentFont'#8#8'TabOrd'
+  +#132#0#6'Height'#2#22#3'Top'#3#165#1#5'Width'#2'X'#10'ParentFont'#8#8'TabOrd'
   +'er'#2#18#4'Text'#6#3'0.5'#0#0#7'TButton'#7'Button3'#4'Left'#3'x'#1#6'Height'
   +#2#25#3'Top'#2#7#5'Width'#2'['#7'Caption'#6#12'Add Field DB'#7'Enabled'#8#7
   +'OnClick'#7#12'Button3Click'#10'ParentFont'#8#8'TabOrder'#2#19#7'Visible'#8#0
-  +#0#9'TCheckBox'#9'CheckBox1'#4'Left'#2'\'#6'Height'#2#19#3'Top'#2#7#5'Width'
-  +#2'I'#7'Caption'#6#9'Enable DB'#8'OnChange'#7#15'CheckBox1Change'#10'ParentF'
+  +#0#9'TCheckBox'#9'CheckBox1'#4'Left'#2'\'#6'Height'#2#18#3'Top'#2#7#5'Width'
+  +#2'Q'#7'Caption'#6#9'Enable DB'#8'OnChange'#7#15'CheckBox1Change'#10'ParentF'
   +'ont'#8#8'TabOrder'#2#20#7'Visible'#8#0#0#5'TEdit'#6'Edit16'#4'Left'#3#132#0
-  +#6'Height'#2#23#3'Top'#2#127#5'Width'#2'X'#10'ParentFont'#8#8'TabOrder'#2#21
+  +#6'Height'#2#22#3'Top'#2#127#5'Width'#2'X'#10'ParentFont'#8#8'TabOrder'#2#21
   +#4'Text'#6#1'0'#0#0#6'TPanel'#6'Panel4'#4'Left'#3#128#2#6'Height'#2'H'#3'Top'
   +#3#24#1#5'Width'#3#153#0#12'ClientHeight'#2'H'#11'ClientWidth'#3#153#0#10'Pa'
   +'rentFont'#8#8'TabOrder'#2#22#0#6'TLabel'#7'Label19'#4'Left'#2')'#6'Height'#2
-  +#15#3'Top'#2#8#5'Width'#2'9'#7'Caption'#6#10'Mass Units'#11'ParentColor'#8#0
-  +#0#12'TRadioButton'#12'RadioButton8'#4'Left'#2#8#6'Height'#2#19#4'Hint'#6'/S'
-  +'ets the weight outputs of the program to grams'#3'Top'#2' '#5'Width'#2'6'#7
+  +#16#3'Top'#2#8#5'Width'#2'C'#7'Caption'#6#10'Mass Units'#11'ParentColor'#8#0
+  +#0#12'TRadioButton'#12'RadioButton8'#4'Left'#2#8#6'Height'#2#18#4'Hint'#6'/S'
+  +'ets the weight outputs of the program to grams'#3'Top'#2' '#5'Width'#2';'#7
   +'Caption'#6#5'Grams'#7'Checked'#9#8'OnChange'#7#18'RadioButton8Change'#8'Tab'
   +'Order'#2#0#7'TabStop'#9#0#0#12'TRadioButton'#12'RadioButton9'#4'Left'#2'G'#6
-  +'Height'#2#19#4'Hint'#6'0Sets the weight outputs of the program to ounces'#3
-  +'Top'#2' '#5'Width'#2'<'#7'Caption'#6#6'Ounces'#8'OnChange'#7#18'RadioButton'
+  +'Height'#2#18#4'Hint'#6'0Sets the weight outputs of the program to ounces'#3
+  +'Top'#2' '#5'Width'#2'B'#7'Caption'#6#6'Ounces'#8'OnChange'#7#18'RadioButton'
   +'9Change'#8'TabOrder'#2#1#0#0#0#6'TPanel'#6'Panel5'#4'Left'#3'8'#1#6'Height'
   +#3#176#0#3'Top'#2'a'#5'Width'#3#225#1#12'ClientHeight'#3#176#0#11'ClientWidt'
   +'h'#3#225#1#10'ParentFont'#8#8'TabOrder'#2#23#0#7'TButton'#7'Button7'#4'Left'
@@ -30064,7 +30062,7 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +'Hint'#6'2Deletes the selected formulation from the database'#3'Top'#2'4'#5
   +'Width'#3#188#0#7'Caption'#6#26'Delete Formulation From DB'#7'OnClick'#7#12
   +'Button6Click'#8'TabOrder'#2#3#0#0#9'TComboBox'#9'ComboBox1'#4'Left'#2#17#6
-  +'Height'#2#23#3'Top'#3#128#0#5'Width'#3#188#0#10'ItemHeight'#2#15#8'OnSelect'
+  +'Height'#2#20#3'Top'#3#128#0#5'Width'#3#188#0#10'ItemHeight'#2#19#8'OnSelect'
   +#7#15'ComboBox1Select'#6'Sorted'#9#8'TabOrder'#2#4#4'Text'#6#26'Select formu'
   +'lation from DB'#0#0#7'TButton'#7'Button9'#4'Left'#3#222#0#6'Height'#2#25#4
   +'Hint'#6'GClick this button to open up the instrument precision settings dia'
@@ -30075,36 +30073,36 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +#6#19'Substance Selection'#5'Color'#7#16'clInactiveBorder'#10'Font.Style'#11
   +#6'fsBold'#0#7'OnClick'#7#12'Button1Click'#10'ParentFont'#8#14'ParentShowHin'
   +'t'#8#8'ShowHint'#9#8'TabOrder'#2#6#0#0#5'TEdit'#6'Edit25'#4'Left'#2#17#6'He'
-  +'ight'#2#23#4'Hint'#6'4Write the name you want the formulation to have here'
+  +'ight'#2#22#4'Hint'#6'4Write the name you want the formulation to have here'
   +#3'Top'#2#16#5'Width'#3#188#0#8'OnChange'#7#12'Edit25Change'#8'TabOrder'#2#7
   +#4'Text'#6#27'Input Formulation Name Here'#0#0#0#9'TCheckBox'#9'CheckBox3'#4
-  +'Left'#3'0'#2#6'Height'#2#19#4'Hint'#6'[Checking this box will cause all cal'
+  +'Left'#3'0'#2#6'Height'#2#18#4'Hint'#6'[Checking this box will cause all cal'
   +'culation-related informative pop-ups to be switched off'#3'Top'#2'I'#5'Widt'
-  +'h'#2'j'#7'Caption'#6#15'Disable Pop-ups'#8'OnChange'#7#15'CheckBox3Change'
-  ,#10'ParentFont'#8#8'TabOrder'#2#24#0#0#9'TCheckBox'#9'CheckBox5'#4'Left'#3
-  +#174#2#6'Height'#2#19#4'Hint'#6'OWhen checked the program will be started on'
-  +' a small window (great for netbooks)'#3'Top'#2'I'#5'Width'#2'`'#7'Caption'#6
+  +'h'#2't'#7'Caption'#6#15'Disable Pop-ups'#8'OnChange'#7#15'CheckBox3Change'
+  +#10'ParentFont'#8#8'TabOrder'#2#24#0#0#9'TCheckBox'#9'CheckBox5'#4'Left'#3
+  +#174#2#6'Height'#2#18#4'Hint'#6'OWhen checked the program will be started on'
+  ,' a small window (great for netbooks)'#3'Top'#2'I'#5'Width'#2'f'#7'Caption'#6
   +#12'Small Window'#8'OnChange'#7#15'CheckBox5Change'#8'TabOrder'#2#25#0#0#6'T'
   +'Panel'#6'Panel8'#4'Left'#3#252#1#6'Height'#2'p'#3'Top'#3#24#1#5'Width'#2'x'
   +#12'ClientHeight'#2'p'#11'ClientWidth'#2'x'#8'TabOrder'#2#26#0#6'TLabel'#7'L'
-  +'abel51'#4'Left'#2#0#6'Height'#2#15#3'Top'#2#8#5'Width'#2'j'#7'Caption'#6#19
+  +'abel51'#4'Left'#2#0#6'Height'#2#16#3'Top'#2#8#5'Width'#2'y'#7'Caption'#6#19
   +'Concentration Units'#11'ParentColor'#8#0#0#12'TRadioButton'#13'RadioButton1'
-  +'0'#4'Left'#2#8#6'Height'#2#19#3'Top'#2'('#5'Width'#2'-'#7'Caption'#6#3'ppm'
+  +'0'#4'Left'#2#8#6'Height'#2#18#3'Top'#2'('#5'Width'#2'0'#7'Caption'#6#3'ppm'
   +#7'Checked'#9#8'OnChange'#7#19'RadioButton10Change'#8'TabOrder'#2#3#7'TabSto'
-  +'p'#9#0#0#12'TRadioButton'#13'RadioButton11'#4'Left'#2#8#6'Height'#2#19#3'To'
-  +'p'#2'H'#5'Width'#2#31#7'Caption'#6#1'M'#8'OnChange'#7#19'RadioButton11Chang'
+  +'p'#9#0#0#12'TRadioButton'#13'RadioButton11'#4'Left'#2#8#6'Height'#2#18#3'To'
+  +'p'#2'H'#5'Width'#2'!'#7'Caption'#6#1'M'#8'OnChange'#7#19'RadioButton11Chang'
   +'e'#8'TabOrder'#2#0#0#0#12'TRadioButton'#13'RadioButton12'#4'Left'#2'@'#6'He'
-  +'ight'#2#19#3'Top'#2'('#5'Width'#2'*'#7'Caption'#6#2'mM'#8'OnChange'#7#19'Ra'
+  +'ight'#2#18#3'Top'#2'('#5'Width'#2'+'#7'Caption'#6#2'mM'#8'OnChange'#7#19'Ra'
   +'dioButton12Change'#8'TabOrder'#2#1#0#0#12'TRadioButton'#13'RadioButton13'#4
-  +'Left'#2'@'#6'Height'#2#19#3'Top'#2'H'#5'Width'#2'('#7'Caption'#6#2'mN'#8'On'
+  +'Left'#2'@'#6'Height'#2#18#3'Top'#2'H'#5'Width'#2'*'#7'Caption'#6#2'mN'#8'On'
   +'Change'#7#19'RadioButton13Change'#8'TabOrder'#2#2#0#0#0#7'TButton'#8'Button'
   +'23'#4'Left'#3'$'#2#6'Height'#2#25#3'Top'#2#7#5'Width'#2'K'#7'Caption'#6#11
   +'Add field S'#7'OnClick'#7#13'Button23Click'#8'TabOrder'#2#27#7'Visible'#8#0
   +#0#7'TButton'#8'Button24'#4'Left'#3'8'#1#6'Height'#2#25#3'Top'#2#7#5'Width'#2
   +'K'#7'Caption'#6#9'SetValues'#7'OnClick'#7#13'Button24Click'#8'TabOrder'#2#28
-  +#7'Visible'#8#0#0#9'TComboBox'#9'ComboBox3'#4'Left'#2','#6'Height'#2#23#3'To'
-  +'p'#3''''#2#5'Width'#2'5'#10'ItemHeight'#2#15#9'ItemIndex'#2#0#13'Items.Stri'
-  +'ngs'#1#6#2'Si'#6#4'SiO2'#0#5'Style'#7#14'csDropDownList'#8'TabOrder'#2#29#4
+  +#7'Visible'#8#0#0#9'TComboBox'#9'ComboBox3'#4'Left'#2'0'#6'Height'#2#20#3'To'
+  +'p'#3'*'#2#5'Width'#2'5'#10'ItemHeight'#2#26#9'ItemIndex'#2#0#13'Items.Strin'
+  +'gs'#1#6#2'Si'#6#4'SiO2'#0#5'Style'#7#14'csDropDownList'#8'TabOrder'#2#29#4
   +'Text'#6#2'Si'#0#0#7'TBitBtn'#8'Button26'#4'Left'#3#209#2#6'Height'#2'('#3'T'
   +'op'#2#23#5'Width'#2'L'#10'Glyph.Data'#10'B'#30#0#0'>'#30#0#0'BM>'#30#0#0#0#0
   +#0#0'6'#0#0#0'('#0#0#0'>'#0#0#0#31#0#0#0#1#0' '#0#0#0#0#0#8#30#0#0'd'#0#0#0
@@ -30145,9 +30143,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +#235#255#255#205#235#255#255#205#235#255#255#205#235#255#255#205#235#255#255
   +#205#235#255#255#205#235#255#255#205#235#255#255#205#235#255#255#205#235#255
   +#255#205#235#255#255#205#235#255#255#205#235#255#255#206#237#255#255#205#235
-  ,#255#255#201#234#255#255#190#230#255#255#149#213#254#255#0#153#255#255#239
+  +#255#255#201#234#255#255#190#230#255#255#149#213#254#255#0#153#255#255#239
   +#249#255#255#255#255#255#255'W'#188#255#255#181#226#255#255#188#228#255#255
-  +#188#228#255#255#188#228#255#255#188#228#255#255#188#228#255#255#188#228#255
+  ,#188#228#255#255#188#228#255#255#188#228#255#255#188#228#255#255#188#228#255
   +#255#188#228#255#255#188#228#255#255#188#228#255#255#188#228#255#255#188#228
   +#255#255#188#228#255#255#188#228#255#255#188#228#255#255#188#228#255#255#188
   +#228#255#255#188#228#255#255#188#228#255#255#188#228#255#255#188#228#255#255
@@ -30209,9 +30207,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +#255#255'j'#196#255#255'j'#196#255#255'j'#196#255#255'j'#196#255#255'j'#196
   +#255#255'f'#195#255#255#0#153#255#255#0#153#255#255'W'#188#255#255'Y'#189#255
   +#255'Y'#189#255#255'Y'#189#255#255'Y'#189#255#255'Y'#189#255#255'Y'#189#255
-  ,#255'Y'#189#255#255'Y'#189#255#255'Y'#189#255#255'Y'#189#255#255'Y'#189#255
+  +#255'Y'#189#255#255'Y'#189#255#255'Y'#189#255#255'Y'#189#255#255'Y'#189#255
   +#255'Y'#189#255#255'Y'#189#255#255'Y'#189#255#255'Y'#189#255#255'f3'#18#255
-  +'Y'#189#255#255'Y'#189#255#255'Y'#189#255#255'f3'#18#255'Y'#189#255#255'f3'
+  ,'Y'#189#255#255'Y'#189#255#255'Y'#189#255#255'f3'#18#255'Y'#189#255#255'f3'
   +#18#255'Y'#189#255#255'Y'#189#255#255'f3'#18#255'Y'#189#255#255'f3'#18#255'Y'
   +#189#255#255'Y'#189#255#255'f3'#18#255'Y'#189#255#255'Y'#189#255#255'Y'#189
   +#255#255'Y'#189#255#255'f3'#18#255'Y'#189#255#255'f3'#18#255'Y'#189#255#255
@@ -30273,9 +30271,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +#170#255#255''''#170#255#255'&'#170#255#255'&'#169#255#255'&'#169#255#255'#'
   +#168#255#255'&'#169#255#255'&'#169#255#255''''#170#255#255'('#171#255#255'+'
   +#172#255#255'+'#172#255#255'+'#172#255#255'/'#174#255#255'5'#177#255#255'='
-  ,#181#255#255'D'#186#255#255'D'#186#255#255'D'#186#255#255'='#181#255#255'='
+  +#181#255#255'D'#186#255#255'D'#186#255#255'D'#186#255#255'='#181#255#255'='
   +#181#255#255'2'#176#255#255'+'#172#255#255''''#170#255#255'&'#170#255#255'&'
-  +#169#255#255'&'#169#255#255'#'#168#255#255'#'#168#255#255'&'#169#255#255'&'
+  ,#169#255#255'&'#169#255#255'#'#168#255#255'#'#168#255#255'&'#169#255#255'&'
   +#169#255#255''''#170#255#255'('#171#255#255'+'#172#255#255'+'#172#255#255'+'
   +#172#255#255'('#171#255#255'('#171#255#255''''#170#255#255''''#170#255#255'&'
   +#170#255#255'&'#169#255#255'#'#168#255#255'#'#168#255#255'#'#168#255#255'#'
@@ -30337,9 +30335,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +'eR'#255'd6'#27#255'd6'#27#255#129'eR'#255#203#240#254#255#198#238#255#255
   +#169#149'x'#255#155'g2'#255#169#149'x'#255#184#225#240#255#183#231#254#255
   +#178#229#254#255#178#229#254#255#184#225#240#255#164#138'g'#255#155'g2'#255
-  ,#172#145'o'#255#183#180#163#255#166#133'^'#255#155'g2'#255#177#164#140#255
+  +#172#145'o'#255#183#180#163#255#166#133'^'#255#155'g2'#255#177#164#140#255
   +#189#200#198#255#159'q@'#255#164'}R'#255#174#204#213#255#169#224#254#255#161
-  +#221#254#255#155#216#254#255#149#213#254#255#149#213#254#255#149#213#254#255
+  ,#221#254#255#155#216#254#255#149#213#254#255#149#213#254#255#149#213#254#255
   +#149#213#254#255#145#212#255#255'r'#200#254#255#0#153#255#255#0#153#255#255
   +#155#216#254#255#162#219#254#255#162#219#254#255#162#219#254#255#162#219#254
   +#255#164#220#254#255#169#224#254#255#176#226#255#255#187#234#255#255#135'xm'
@@ -30401,9 +30399,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +#241#255#255#213#239#255#255#210#238#255#255#210#238#255#255#210#238#255#255
   +#210#238#255#255#201#234#255#255#0#153#255#255#0#153#255#255#213#239#255#255
   +#221#242#255#255#221#242#255#255#221#242#255#255#221#242#255#255#221#242#255
-  ,#255#221#242#255#255#221#242#255#255#225#245#254#255#233#246#255#255#190#187
+  +#255#221#242#255#255#221#242#255#255#225#245#254#255#233#246#255#255#190#187
   +#182#255'nF.'#255'lB)'#255#168#155#146#255#197#193#189#255#150#127'p'#255'd6'
-  +#27#255'yVA'#255#194#187#182#255#182#179#173#255#156#133'v'#255#150#127'p'
+  ,#27#255'yVA'#255#194#187#182#255#182#179#173#255#156#133'v'#255#150#127'p'
   +#255#160#144#132#255#189#183#178#255#227#235#238#255#197#193#189#255#158#140
   +#128#255#198#198#196#255#231#247#255#255#233#246#255#255#205#207#207#255#160
   +#144#132#255#167#163#157#255#197#186#169#255#160'p>'#255#160'p>'#255#207#194
@@ -30465,9 +30463,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +#255#206#235#255#255#0#153#255#255#251#254#255#255#255#255#255#255#255#255
   +#255#255#0#153#255#255#149#213#254#255#201#234#255#255#229#245#255#255#232
   +#246#255#255#232#246#255#255#232#246#255#255#232#246#255#255#232#246#255#255
-  ,#232#246#255#255#232#246#255#255#232#246#255#255#232#246#255#255#232#246#255
+  +#232#246#255#255#232#246#255#255#232#246#255#255#232#246#255#255#232#246#255
   +#255#232#246#255#255#233#246#255#255#233#246#255#255#232#246#255#255#232#246
-  +#255#255#232#246#255#255#232#246#255#255#233#246#255#255#233#246#255#255#232
+  ,#255#255#232#246#255#255#232#246#255#255#233#246#255#255#233#246#255#255#232
   +#246#255#255#232#246#255#255#233#246#255#255#233#246#255#255#232#246#255#255
   +#232#246#255#255#232#246#255#255#232#246#255#255#232#246#255#255#232#246#255
   +#255#233#246#255#255#232#246#255#255#233#246#255#255#233#246#255#255#232#246
@@ -30493,16 +30491,16 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +'tton15Click'#8'TabOrder'#2#31#0#0#6'TPanel'#6'Panel9'#4'Left'#3#128#2#6'Hei'
   +'ght'#2'7'#3'Top'#3'P'#1#5'Width'#3#153#0#12'ClientHeight'#2'7'#11'ClientWid'
   +'th'#3#153#0#10'ParentFont'#8#8'TabOrder'#2' '#0#6'TLabel'#7'Label25'#4'Left'
-  +#2')'#6'Height'#2#15#3'Top'#2#8#5'Width'#2'3'#7'Caption'#6#8'EC Model'#11'Pa'
+  +#2')'#6'Height'#2#16#3'Top'#2#8#5'Width'#2':'#7'Caption'#6#8'EC Model'#11'Pa'
   +'rentColor'#8#0#0#12'TRadioButton'#13'RadioButton14'#4'Left'#2#8#6'Height'#2
-  +#19#4'Hint'#6'=Model using limiting molar conductivity values to estimate EC'
-  +#3'Top'#2' '#5'Width'#2'-'#7'Caption'#6#3'LMC'#7'Checked'#9#8'OnChange'#7#18
+  +#18#4'Hint'#6'=Model using limiting molar conductivity values to estimate EC'
+  +#3'Top'#2' '#5'Width'#2'0'#7'Caption'#6#3'LMC'#7'Checked'#9#8'OnChange'#7#18
   +'RadioButton8Change'#8'TabOrder'#2#0#7'TabStop'#9#0#0#12'TRadioButton'#13'Ra'
-  +'dioButton15'#4'Left'#2'G'#6'Height'#2#19#4'Hint'#6#242'Empirical model crea'
+  +'dioButton15'#4'Left'#2'G'#6'Height'#2#18#4'Hint'#6#242'Empirical model crea'
   +'ted using experimental data. Works best when only these salts are used for '
   +'macronutrients:'#13#10#13#10'Calcium nitrate (ag grade)'#13#10'Potassium su'
   +'lfate'#13#10'Potassium monobasic phosphate'#13#10'Magnesium sulfate (heptah'
-  +'ydrate)'#13#10'Ammonium sulfate'#3'Top'#2' '#5'Width'#2'E'#7'Caption'#6#9'E'
+  +'ydrate)'#13#10'Ammonium sulfate'#3'Top'#2' '#5'Width'#2'J'#7'Caption'#6#9'E'
   +'mpirical'#8'OnChange'#7#18'RadioButton9Change'#8'TabOrder'#2#1#0#0#0#0#9'TT'
   +'abSheet'#9'TabSheet2'#7'Caption'#6#7'Results'#12'ClientHeight'#3#133#2#11'C'
   +'lientWidth'#3':'#3#11'Font.Height'#2#245#10'ParentFont'#8#0#6'TLabel'#7'Lab'
@@ -30529,9 +30527,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0
   +#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0
   +#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0
+  +#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0
+  +#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0
   ,#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0
-  +#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0
-  +#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0
   +#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0
   +#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0
   +#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#4#0#0#0#14#16#0#16#27#0#0#0#19#0#0#0#9#0#0#0
@@ -30593,9 +30591,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +'?'#165'~'#255'<'#159'x'#254'H'#167#129#255'V'#150'~'#216'@k\'#163'!qR'#188
   +','#132'd'#148'6`S%'#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0
   +#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#9'%B6XX'#163#132#248#27#9#17#24#0#0#0
-  ,#0#0#0#0#0'.'#4#20#27'i'#156#136#133'u'#178#152#213'p'#176#148#249'h'#173#143
+  +#0#0#0#0#0'.'#4#20#27'i'#156#136#133'u'#178#152#213'p'#176#148#249'h'#173#143
   +#255'p'#178#149#255'r'#177#150#252'b'#149#127#226'/'#132'_'#212'*'#138'b'#174
-  +'L'#12'$'#22#0#0#0#0',62'#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0
+  ,'L'#12'$'#22#0#0#0#0',62'#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0
   +#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#1#18#18#18'&A'#145'n'#252',N?V'#0#0#0#8
   +#0#0#0#1#0#0#0#0#0#0#0#0#0#0#0#1#0#0#0#11'#''$Ts'#166#139#255'<7:='#10#0#3#16
   +#0#0#0#6#0#0#0#3#0#0#0#1#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0
@@ -30657,9 +30655,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +#9#15'Title.Alignment'#7#8'taCenter'#13'Title.Caption'#6#16'Preparation Cost'
   +#0#1#13'Title.Caption'#6#6'Source'#7'Visible'#8#0#0#15'DefaultColWidth'#3#170
   +#0#16'DefaultRowHeight'#2#20#9'FixedCols'#2#0#7'Options'#11#15'goFixedVertLi'
-  ,'ne'#15'goFixedHorzLine'#10'goVertLine'#10'goHorzLine'#13'goRangeSelect'#9'g'
+  +'ne'#15'goFixedHorzLine'#10'goVertLine'#10'goHorzLine'#13'goRangeSelect'#9'g'
   +'oEditing'#14'goSmoothScroll'#0#8'RowCount'#2#1#8'TabOrder'#2#6#16'TitleFont'
-  +'.Height'#2#245#17'OnEditButtonClick'#7#26'StringGrid2EditButtonClick'#13'On'
+  ,'.Height'#2#245#17'OnEditButtonClick'#7#26'StringGrid2EditButtonClick'#13'On'
   +'EditingDone'#7#22'StringGrid2EditingDone'#0#0#6'TLabel'#7'Label18'#4'Left'#3
   +#196#1#6'Height'#2#18#3'Top'#3#21#1#5'Width'#2'H'#7'Caption'#6#10'Total Cost'
   +#11'Font.Height'#2#241#9'Font.Name'#6#4'Sans'#10'Font.Style'#11#6'fsBold'#0
@@ -30721,9 +30719,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +#196'&'#177#205#217'|v*'#187#152#253#29#187#139'='#170#169#161'9C3J3W'#179'R'
   +#243#148'f?'#7#227#152'q'#248#156'tN'#9#231'('#167#151#243'~'#138#222#20#239
   +')'#226')'#27#166'4L'#185'1e\k'#170#150#151#150'X'#171'H'#171'Q'#171'G'#235
-  ,#189'6'#174#237#167#157#166#189'E'#187'Y'#251#129#14'A'#199'J''\''Gg'#143#206
+  +#189'6'#174#237#167#157#166#189'E'#187'Y'#251#129#14'A'#199'J''\''Gg'#143#206
   +#5#157#231'S'#217'S'#221#167#10#167#22'M=:'#245#174'.'#170'k'#165#27#161#187
-  +'Dw'#191'n'#167#238#152#158#190'^'#128#158'Lo'#167#222'y'#189#231#250#28'}/'
+  ,'Dw'#191'n'#167#238#152#158#190'^'#128#158'Lo'#167#222'y'#189#231#250#28'}/'
   +#253'T'#253'm'#250#167#245'G'#12'X'#6#179#12'$'#6#219#12#206#24'<'#197'5qo<'
   +#29'/'#199#219#241'QC]'#195'@C'#165'a'#149'a'#151#225#132#145#185#209'<'#163
   +#213'F'#141'F'#15#140'i'#198'\'#227'$'#227'm'#198'm'#198#163'&'#6'&!&KM'#234
@@ -30785,9 +30783,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +#233#0#0'u0'#0#0#234'`'#0#0':'#152#0#0#23'o'#146'_'#197'F'#0#1'K'#221'IDATx'
   +#218#236#253#247#147'div'#29#8#158'O='#229'"dj'#173'Ue'#233'j'#133#150#232#6
   +#208'P'#4'X'#132' '#6'$'#135#24#14#151#195#221#177#157#29#219#31'fv'#198'vmm'
-  ,'g'#205'vg'#205#246'/'#24#179'Y'#179#249'e'#185'$'#209'$'#135#4#9#128'@7'#208
+  +'g'#205'vg'#205#246'/'#24#179'Y'#179#249'e'#185'$'#209'$'#135#4#9#128'@7'#208
   +'h'#221']'#186'*'#179#170#178'R'#171#200#208#225#238'O~j'#127'x'#239#185'?'
-  +#247'p'#143#136#172#202'R'#217#239#150'y'#185#142#140'p'#127#239';'#223#185
+  ,#247'p'#143#136#172#202'R'#217#239#150'y'#185#142#140'p'#127#239';'#223#185
   +#247#220's'#137#181#22'u'#212'QG'#29'u'#212#241'q'#7#173'?'#130':'#234#168
   +#163#142':j@'#170#163#142':'#234#168#163#142#26#144#234#168#163#142':'#234
   +#168#1#169#142':'#234#168#163#142':j@'#170#163#142':'#234#168#163#6#164':'
@@ -30849,9 +30847,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +#130'`'#183#235#186#7#29#199'96=?}'#241#27#191#243#245'/'#207#237#155#155#186
   +#191'v'#31'o?'#184#12'K,'#26#172#1'A'#28#4'N'#128#153#198#12'b'#21#163#219
   +#233'%w'#223#188's'#227#238#155#247'^RR'#221'UJ-H)'#23#165#148#203'i'#154'nD'
-  ,'Q'#212#9#195'0'#142#227'8'#217'!0M'#2#164#173#0#170#6#166':'#234#248'9'#14
+  +'Q'#212#9#195'0'#142#227'8'#217'!0M'#2#164#173#0#170#6#166':'#234#248'9'#14
   +#246'k'#227#242'q'#216#186'-'#159#0#250#223#215#128#244'a'#3#210#150'`$'#132
-  +'`A'#16#136'F'#163#225'LMM'#5#205'fs'#206#247#253'='#158#231#29#22'B'#156'<'
+  ,'`A'#16#136'F'#163#225'LMM'#5#205'fs'#206#247#253'='#158#231#29#22'B'#156'<'
   +#251#236#153'/'#254#194'7'#127#225'"'#19#156#191'y'#231'u,'#244#238#131#17
   +#142'6'#159#130#207'}8'#204#1'g'#28#132#18'0'#198#16'8'#1'R'#149#162#23#134
   +#242#206#165#219'wo'#188'z'#243'gY'#156#221'PJ'#221#151'R.fY'#182#156'$'#201
@@ -30913,9 +30911,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +#222'y'#249#222#143'd*op'#206#239#8'!'#238#187#174#187#226'y'#222'j/'#143#216
   +'q'#28#25'E'#209#168#240#193'l'#241'Y'#140'cKu'#10#175#142':'#30#183#216'J'
   +#180#176#221#164#182#26#144#30')3'#26'z'#220'ZK'#8'!'#212'q'#28'!'#132#240
-  ,#132#16'S_'#249#141'/'#253#202#174#211#187#190'zk'#237#6'Y'#234'- '#147#25
+  +#132#16'S_'#249#141'/'#253#202#174#211#187#190'zk'#237#6'Y'#234'- '#147#25
   +#136#165'y.'#206'<<'#252#133#170#135'P'#245#208'v'#166#16#136#0#174#240#224
-  +'r'#183'H'#225'q0'#198#192#8#27#206#223'VnS'#16'8D@A'#161#23#245'0'#223#156
+  ,'r'#183'H'#225'q0'#198#192#8#27#206#223'VnS'#16'8D@A'#161#23#245'0'#223#156
   +#163#222'3'#254#161']'#199#231#246#222'~'#253#238#245#165#203'+}E'#30#231'|A'
   +#8#177#236#186#238'z'#24#134#161#16'"'#9#195'0'#139#227'X'#15'`n'#8#156#170
   +#247#199'1'#164':'#133'WG'#29#143'['#208#145'3'#157#140#217#154'VsI'#143#169
@@ -30977,9 +30975,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +'9w\'#215#245#29#199#241']'#215'm'#184#174#219'r]'#183'-'#132#152#22'B'#204
   +'8'#142'3'#199#4#219#187#150#174#156#234#217#206#238#185'#S'#254#179#159#185
   +#8#167#225#230#221#209'&w'#0#183#22#176'z'''#231#240'p'#184#204#131''''#26'y'
-  ,'*'#143#22'5&'#202'A)'#203#235'K'#132#20#142#15#6#202'hH-a'#136#130'p'#28'\'
+  +'*'#143#22'5&'#202'A)'#203#235'K'#132#20#142#15#6#202'hH-a'#136#130'p'#28'\'
   +#185'w'#197','#188#178'x)'#188#153'}?'#203#178#247#210'4'#189#21#199#241#253
-  +'0'#12#215'666'#186#189'^/'#141#162'H'#238'0'#133#183#237#156#165'z'#241'x('
+  ,'0'#12#215'666'#186#189'^/'#141#162'H'#238'0'#133#183#237#156#165'z'#241'x('
   +#16#218#9#168#144'G'#8'N'#31#22'cz'#24#144#217#201#237'z'#179#243'!'#196#236
   +#239'WD'#13#213#213#209#140#0#210#200#253#213#255'_'#13'H'#31#20#144'F'#193
   +'h;Pb'#147#128#169#4''''#206#185'('#128#201'q'#28#199#247'<'#175#225#186'n'
@@ -31041,9 +31039,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +#235'8'#203#178#152'1'#22'w:'#29'lll'#140#154'o'#145':'#21#252#232#131'2'#178
   +'y'#135'n'#7'5lB'#199',|'#143#225''''#253'q'#0#210'$'#227#244'Q'#162'JG'#22
   +'X3)-Qy'#29#27#1#166#234't'#250#242'D'#215'J)VLq'#149'R'#202'$I'#146#196#247
-  ,#253'0I'#146'>c'#242'<o1'#240'Z'#15'f'#248#252#238#206'[kg'#255#221#229#191
+  +#253'0I'#146'>c'#242'<o1'#240'Z'#15'f'#248#252#238#206'[kg'#255#221#229#191
   +'<p'#248#137'='#222#133''''#207#2'T'#3#134#2#150#128#176'B.N'#203'A'#128'vp'
-  +#214#218#202#175'j-'#146#172#11#169#18#184'"'#128#203'<'#8#238#128'R^'#128'Q'
+  ,#214#218#202#175'j-'#146#172#11#169#18#184'"'#128#203'<'#8#238#128'R^'#128'Q'
   +#206#150'8aP'#214'"'#9'C\8y'#222#127#215'{'#251#23#151'^'#233#206#209#5#234
   +#21'u%'#193#24#227#140#177'U'#0'!c'#140#20'b'#7'2'#134'%Ql?'#202#226'S'#187
   +#152'|'#0' '#218#10#128'&'#166#148#133#16#196'u]V'#0#16#205#219#225#132'p'#28
@@ -31105,9 +31103,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +#188'F^/(E2U'#162'c'#139#20'/'#10'6c'#242'fj'#3#13#173'5'#180'UPFB'#233#12'R'
   +'eHd'#140'L'#246#16#235'N'#137'ME'#30#153#128#16#192#164#22'`'#4#214#24#24'K'
   +#1#162'1;'#213#198#131#203'='#200'[N'#244#204#169#167#255#133#203#189#203'i'
-  ,#154'Fi'#154#202'4MM'#146'$$'#203#178'Q@'#26'wy'#152#158#166#137#155#208#234
+  +#154'Fi'#154#202'4MM'#146'$$'#203#178'Q@'#26'wy'#152#158#166#137#155#208#234
   +'w'#253#243#6'N'#229#247'_'#246')V'#255'z'#202#6')<JG'#128#171#6#164#15'%m7'
-  +#233#160#174'&&F'#27'd'#171#175#31#173''''#141#178#163'I'#6#174#19'kM'#165'd'
+  ,#233#160#174'&&F'#27'd'#171#175#31#173''''#141#178#163'I'#6#174#19'kM'#165'd'
   +#188#0'()'#165#204#210'4M'#138'K/'#8#130'n'#150'e'#235#158#231#173#236#241
   +#142#220#12#223#237']'#248#243#171#223';z'#238#185'#'#206#193'#'#251#193'h'
   +#177#227'5'#232#143'Y'#183#131'<~'#225'o7|N'#198#178#3'e%\'#150#155#182'R'
@@ -31169,9 +31167,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +#186#213#235#245#30#172#175#175'ot'#187#221'$'#12'C'#173#148#130#214#154'V'
   +#142#19'2'#178'q'#177'#'#155#155'q'#13#234#152#144#237#176#216#153'S'#203#207
   +#149'g'#30#169#154#166'U'#128'ile'#220'>'#190#159#206#199#238#212#240#226#139
-  ,'/'#226'['#223#250#22'y'#31#7#166#221'a'#237#192'n'#147#222#27#5'%'#187#5'0'
+  +'/'#226'['#223#250#22'y'#31#7#166#221'a'#237#192'n'#147#222#27#5'%'#187#5'0'
   +#245#31#215'Z'#27'k'#173'.'#26'lU'#150'ei'#146'$'#145#239#251#189'F'#163#209
-  +#205#178'l'#195#243#188#181#221#254#209';ko'#172'_'#252#254#205'W'#143'|'#246
+  ,#205#178'l'#195#243#188#181#221#254#209';ko'#172'_'#252#254#205'W'#143'|'#246
   +#139#23#153#19'p'#128#19#16']'#233']'#26')2'#13#148#188#22'F+'#196#186#3#195
   +#21#28#225#131'C'#128'X'#158#167#129#192'aUn'#4#251#228#211#23'g'#223'p^'#255
   +#13#188#228#248'#'#128#196#10' !q'#28'g'#219#200#194'?rP'#218'!+z( r]'#151'7'
@@ -31233,9 +31231,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +#253'W'#127#242#202#133#211#207#238#247#247#238#159#207#199#168#23#137' Rt'
   +#237'S2'#144#0#15#254'H'#11#169'c'#24#163#225#138#0#156':'#0#227#160#140#194
   +#26#10#153'%8'#186#247#24's>'#127#251#133#133#151'C'#159#220#246'x'#9'J'#0'X'
-  ,#185#235#237'v'#187#233'G'#217'@'#187#13#24#237#148#17#149#233'9'#222'h4x'
+  +#185#235#237'v'#187#233'G'#217'@'#187#13#24#237#148#17#149#233'9'#222'h4x'
   +#163#209#240#27#141'F'#211#247#253'i'#207#243#230#29#199#217''''#132'8'#232
-  +'z'#238#209#207#127#253#217#207'>'#249#133's'#135#148'M'#249#155'w~'#130'k'
+  ,'z'#238#209#207#127#253#217#207'>'#249#133's'#135#148'M'#249#155'w~'#130'k'
   +#15'^'#131#160#30#218'l'#30#130#6'p'#152#151#131#17#205'kD'#156'1'#16#176#129
   +#247#219#8','#12#186'6'#201#144#20#129#140#194'H?'#199'?'#134#232'[`R'#5#169
   +#250#239#145#17#20#179#19'~'#14#25'M'#230#145'A'#11'?'#1#129#234'i<'#184#190
@@ -31297,9 +31295,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +#252'_q'#206'9'#165#180#202#208#183'm?x'#28'm'#133'H'#229#198'&'#230'3'#202
   +#134#202'tm]C'#250#228#3#211#14#192#9#239#19#152#236#4#198'e'''#212#150#236#8
   +'['#178#213'4^'#133'-'#165'Y'#150#197'R'#202#158'R'#170#235#251's]'#220'Tg~'
-  ,#184't'#249#226'g'#190'x'#214#21#1#29'L'#235#178#6'(G\'#20#220#158'T'#210'FJ'
+  +#184't'#249#226'g'#190'x'#214#21#1#29'L'#235#178#6'(G\'#20#220#158'T'#210'FJ'
   +#199#176'V'#1#188#9#14'7'#239#228''''#20'J)4'#220'6.<3'#189#251']'#255#218
-  +#175#175#252#196'+'#235'I'#188#152'ZJ'#8'!'#163#174#14'x'#8'P'#218'j'#7#251
+  ,#175#175#252#196'+'#235'I'#188#152'ZJ'#8'!'#163#174#14'x'#8'P'#218'j'#7#251
   +'0'#189'Et'#244#218#243'<'#222'h4'#156#2#140#218'A'#16#204#249#190#191'G'#8
   +'qH'#8'q'#236#194#179#167'_'#248#218#223#250#133''''#21#143#196#143#174#252
   +'%n.'#188#10#128#161#193#246#193#231'-84'#232'['#252#8#202#193'h'#158#214'$'
@@ -31361,9 +31359,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +#187'q'#23#163#239#217#10#144'&'#165#241#198#214#150#178',3Zk'#163#148#210
   +#165#232#161'`Kq '#131'p'#202'?'#186'z'#247#165#229#231#151#15'\;x'#254#169
   +#163#132'qZt'#207#145'|*('#177#24#29#177#164#145'"'#147'$'#31#246'G9'#152'e'
-  ,#160#132#3#150'@I'#133'cGN{'#206'/'#223#252#234#219#127#177#204'{K'#132#22
+  +#160#132#3#150'@I'#133'cGN{'#206'/'#223#252#234#219#127#177#204'{K'#132#22
   +#233';J)E'#197'jH'#22#174#14#163'J'#187#135'9'#29#182'jt'#29#170#23#149#194
-  +#133'V'#171#213'n6'#155#187'\'#215'='#228#186#238#177#217']'#211'O'#190#248
+  ,#133'V'#171#213'n6'#155#187'\'#215'='#228#186#238#177#217']'#211'O'#190#248
   +#15#127#229#203#193#156'h'#254#244#234'_'#226#230#226'+0'#153#130'+'#230#224
   +#209'6'#28#26#192#17#30#24'q '#168#0#161#249#232#15'B'#11'("e'#189#168#170
   +#158#171#164#217#250')8SaE'#149#20#29#12#180'1'#197'gl'#250'i:3'#244'sJ'#240
@@ -31425,9 +31423,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +#137'1F'#10#171'!5r'#194'o5'#251'f, q'#206'Y'#233#186#208'n'#183'['#237'v{'
   +#222#247#253'C'#142#227#156#156#154'i?'#241#251#255#197#175'~'#195#159#166
   +#205#31#191#247#239'qo'#249'2'#152'n'#194'C'#19#14'|p'#238#130'S'#23#130'r'
-  ,#144#194#8#149'TGC'#216#188#166#214'7'#166'-'#206#244'bg^'#164#231't'#255'9'
+  +#144#194#8#149'TGC'#216#188#166#214'7'#166'-'#206#244'bg^'#164#231't'#255'9'
   +#131#1'0'#13#0#170#16',X'#3'kle'#194#175#29#146'z'#231'u'#151'j'#202#174#2'z'
-  +#168#170#31'M'#229#247#169#164#242'6%'#149#198'H'#209#173#29#241'd'#168#250
+  ,#168#170#31'M'#229#247#169#164#242'6%'#149#198'H'#209#173#29#241'd'#168#250
   +#221#209#252'_,F'#140#18';\n('#171#226'd'#200#24#13#131#29#203#152':'#149#173
   +#136'=`'#171','#201#128#152#193#223'N('#160'b'#138#165#235')'#216#234#190#245
   +#221#243#7'V'#178',K'#140'1 '#132#184#142#227'4)'#165#196'u'#221#160'0]-'#205
@@ -31489,9 +31487,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +'=sg'#253'*}'#231#246#207#160'3'#11#7#1',8'#152#205#189#212#136')'#148's'#253
   +#218#137#29#18#11#12#151'gl'#165#158#131'a'#240#232'/'#178#166'/'#221'6'#214
   +#246'YN'#254'v]y}'#1'"'#253'f'#217#210'Bh38'#13#254'-'#211#7'I;4b'#162#218
-  ,#129'4'#204#140#172#173#138#22#233#216#225'~C'#19#218'61'':'#168'.'#217'A2op'
+  +#129'4'#204#140#172#173#138#22#233#216#225'~C'#19#218'61'':'#168'.'#217'A2op'
   +#196#210#161#190'#b'#135#235'H9{'#162'C'#192#184'YMX'#244'%'#25#5'c'#21',2'
-  +#132#233#6':'#139'7q{'#245''''#185#196#188#248#247#152#200#211#136#204#1#184
+  ,#132#233#6':'#139'7q{'#245''''#185#196#188#248#247#152#200#211#136#204#1#184
   +#240#17'8'#179#222'l'#235#0#188'F'#211#159#10#230'q'#248'Pc'#254#12#223's'
   +#220'u|'#16#205'L'#216'K'#211#181#7#157'pc5'#236'-'#223#221'xp'#239#234#234
   +'-'#153#169'ukm'#199#24#179#161#181#222'0'#198't'#180#214#29#173'uW)'#213#147
@@ -31553,9 +31551,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +'6)|'#249'l1'#229'U'#180#219#237'F'#171#213#154#243'}'#255#160#235#186''''
   +#143#157'9'#248#217#223#249#7#223'|n5'#190'Gn-'#190#11'('#2#10#1#11#211#175
   +#158#16'2R'#191#24'7{'#168#226#178'='#156#170#171#2#213#8#128#193#140'0'#168
-  ,'|A'#172#186'v'#15#230#30#153'M'#195#246#250'=G'#24#190#159#247'/a'#200'^'
+  +'|A'#172#186'v'#15#230#30#153'M'#195#246#250'=G'#24#190#159#247'/a'#200'^'
   +#168#250#218'j'#250'nH'#132#209'gWc'#19'f'#176'E'#159'Q'#249'?R'#172'LfT'#10
-  +'ni'#223'.j'#240#12#173#210#160#145'w'#12'3/3'#130'&'#253#191#177'T'#214#193
+  ,'ni'#223'.j'#240#12#173#210#160#145'w'#12'3/3'#130'&'#253#191#177'T'#214#193
   +#194'Z'#149#255#157'd'#210#6#221'nZ'#226#173#5#140#198'f'#6'f*'#253'6E'#15
   +#177#206'L?'#21'e'#148#1#227#6':'#165'0F"'#204'V'#17#135'+'#184'y'#247'U'#184
   +'n'#128#153#230#161#230#238#243'G'#207#30#127#254#212#169#181'['#233#202#181
@@ -31617,9 +31615,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +#204'|3'#237#25#11'@c'#198'1'#150#165#142'r'#166'O'#127#132#2'r'#16#129#5'(g'
   +'}P'#178'0'#160#140'Bk'#131'0'#145#200#18#9'et'#254'>'#15#16#6'`'#130' '#222
   +'00'#10'P'#137'E'#150'X'#24#153#23#250'U'#10'd'#145#133'Q'#25#174#226'*('#187
-  ,#134'`'#150#158'm'#31#228#255'w>?'#255'?'#201#215#14#253'/'#132#16'!'#132#224
+  +#134'`'#150#158'm'#31#228#255'w>?'#255'?'#201#215#14#253'/'#132#16'!'#132#224
   +#174#235#202#157#167#210'>"aC'#193#128'FSr9'#0#13#128')'#175#177#145'1'#181
-  +#166#26#144#234'x'#244'li'#146'<|'#244#180#223#202#208't'#232#223'(SxI'#146
+  ,#166#26#144#234'x'#244'li'#146'<|'#244#180#223#202#208't'#232#223'(SxI'#146
   +#148#218'pS'#212#149'2cL'#22#152#153#236#254'k'#241#243'Y|'#245#244#153#179
   +''')'#241'I'#190'pX'#11'XQ'#152';'#210'A'#170#136#0'F'#21#203'3'#203#211'w'
   +#174'p'#200#231#190'r'#225#136#235#243'_}'#249'O'#239#252'5cl'#214#24#19#18
@@ -31681,9 +31679,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +#145#210'<=W'#254#251'#u'#29'2FO'#220'w&'#176'v"'#5' '#19#185#141#29'z'#31#25
   +'38'#136'T'#204'I'#237'V'#168#135#225'4'#220#232#239'C*M(v3'#146#13'}'#253'd'
   +'h!'#218'J'#144'='#146#250#219'b'#176'|'#245#199#229#12#136#228#245#30'3'#200
-  ,'(2'#7#160'4_.'#184'S'#202#208#25#162#142'AwQ'#226#222#245#8#15'ndH'#214#133
+  +'(2'#7#160'4_.'#184'S'#202#208#25#162#142'AwQ'#226#222#245#8#15'ndH'#214#133
   +#242#249't'#216'n'#236']?'#24'L/'#240#166#179'l'#140#9#181#214#145'1&'#210'R'
-  +#199#189#180#151'h'#173#227#178'?.o'#222#206#7#245#21'C'#251'dq['#23#195#252
+  ,#199#189#180#151'h'#173#227#178'?.o'#222#206#7#245#21'C'#251'dq['#23#195#252
   +#148#206#205#27'U1IY'#23#233':m'#173'5'#214'Z]^'#8'!'#150'R'#170'K'#153')'
   +#165#212#148#239'I'#146'D'#19'BL'#154#166#159'8nA'#201#240#241'K*'#185#145'!'
   +#247#148'!'#193'C'#13'Hu|'#188')<'#186#169'h0'#30#156#182'MY'#27'c'#180'R'
@@ -31745,9 +31743,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +'6'#19'+Kw'#165#207#166#186'{'#246#157#246#130#249#3#2#220'UPZB#'#5#152#4#181
   +'i>'#188#13#3#207#179#193'_g''.'#232'U'#0#26#191's'#28#159':'#179'c'#0'h|'
   +#223#235#248#181#171#154#202#179#216#9#3#27'%G'#246#209'.'#139'UFT'#169#239
-  ,'Q'#154#247#146'9'#141#252#223'L"'#131#251'W'#18#220'x'#171#135#197#27#208'M'
+  +'Q'#154#247#146'9'#141#252#223'L"'#131#251'W'#18#220'x'#171#135#197#27#208'M'
   +#182'ocv'#234#228#157'={'#189#251'Y'#150#173#135#189'x#'#203#178'n'#150'e%'
-  +#16'EY'#150#165'R'#202'$'#203#178'>'#11#170'('#224#244#22'L'#197#188#15'P'
+  ,#16'EY'#150#165'R'#202'$'#203#178'>'#11#170'('#224#244#22'L'#197#188#15'P'
   +#250' '#128#245#176#236'h'#203's'#241#163'aH'#5#11#170'*'#236#236' 5GG'#220
   +'0({<'#215#190#26#144'>]'#160#132'-'#152#211#232#237#173#128#9#148'RPJ'#9#231
   +#156';'#142'#<'#207#11'\'#215'mx'#158#215#242'<o'#202'u'#221#25#199'qf]'#215
@@ -31809,9 +31807,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +#245'b'#182#186#216'%'#148'R'#199#24#211'0'#198'$c<'#228#202#185'Y'#213'K'
   +#154#27#241#230#254'p'#197#237#172#180#251#169#130#148'RJV'#236#168'JgyR4_'
   +#143#3#22'<'#4#240#0#15'/Zxhv'#244'Q'#9#26#138'o77+6'#165'4?7-'#238'7'#157#19
-  ,'2'#212#128'n'#244#227')l'#168#1#233#211#1'F;ir'#165'#`'#196'<'#207#19#141'F'
+  +'2'#212#128'n'#244#227')l'#168#1#233#211#1'F;ir'#165'#`'#196'<'#207#19#141'F'
   +#195'k4'#26#141'f'#179'9U'#164#230#246#186#174#187#207'q'#156#195'O'#189'p'
-  +#234#201'_'#253#237'/]'#152#221#213#244'V'#195';'#184't'#247'g'#136#146'n'#14
+  ,#234#201'_'#253#237'/]'#152#221#213#244'V'#195';'#184't'#247'g'#136#146'n'#14
   +'D'#134#194#232'r'#203#150#3#145'5'#131#133#220#146#178#209#212#192'j'#11#20
   +'i'#187'hCb'#229#174#180'Y'#151#223#213'*'#139#10#191'2U'#164'yte&'#147'VJ'
   +#169','#203#178'4M'#147'4M'#195'4M'#187'A'#16#172'{'#153#183#230#251'G'#239
@@ -31873,9 +31871,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +#205#222']}'#3'wn'#190#6#173'-('#241'A,'#7#163#28#214#176'<=`'#243#29#242'@&'
   +'`'#250#30'u'#132#20#247'l'#222'{T'#138#174'm'#223#231'$'#23'4'#16'Xh'#157
   +#193#216#7'H'#141'O'#206'~fz'#247#177#243#207'}'#241'o'#254#237#213'+'#239
-  ,#189#177#248#174#235#186#13#215'u'#151#162'(Z-'#132#14'Q'#146'$I'#238'<'#163
+  +#189#177#248#174#235#186#13#215'u'#151#162'(Z-'#132#14'Q'#146'$I'#238'<'#163
   +'M'#177'9V'#133#29'M'#150#166'iR4i'#246#210'4'#221#240'S'#127#205'O'#206#221
-  +'z'#239#251#203#23#239#237#187#191#239#244'3'#13#218#152#225' '#30#201#255'}'
+  ,'z'#239#251#203#23#239#237#187#191#239#244'3'#13#218#152#225' '#30#201#255'}'
   +'F'#160'3'#11#202'r'#23'%'#218'_'#144#31#222#251#235#19#145#185'#'#227'w'#211
   +'%'#16#245#162#16'a'#156#22'f'#169#164'o'#154'Z'#142#154#207#165't'#229'p7'
   +#11'S'#248#160'Q'#228#163'B'#172#181#176',7'#240'0'#198#230#245'@'#174'A-'
@@ -31937,9 +31935,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +#249#245#248#26'}'#245#230'w'#177#214#187#13'k'#9'8'#153#3'g'#13'0'#184'`T'
   +#128#128#129'RZ'#236#156'GVN'#139'>'#8#245#193#168#127#187#24#184'W'#130'O'
   +#255#21'f0{'#168'P'#222#217#190'4<'#23'DH'#5'Pm'#208'1'#235#8#147'.ff'#230
-  ,#253#223#252#199#199#159#191#254'zx'#228#175#255#205#245'W'#194#158'{'#167#4
+  +#253#223#252#199#199#159#191#254'zx'#228#175#255#205#245'W'#194#158'{'#167#4
   +'&'#215'u;a'#24#246#202#133'FJi'#172#181#182#24'q'#160#179',+'#8'S'#206#152
-  +#242'4'#158#223#9#178#249#149'^6{'#226#181#133'['#231#142'^'#12#131#221#135
+  ,#242'4'#158#223#9#178#249#149'^6{'#226#181#133'['#231#142'^'#12#131#221#135
   +#155'`'#174#133'!'#0'1'#20#162'('#14#231#19'm?"'#0'"'#31#12#136'6'#194#24'i'
   +#1'D'#195#202'*'#219'gB'#3'\'#177#5'y!Cb'#142#18#127#202#195'op'#127#244#249
   +#205#143#245#211'|C2'#175#205#127'4'#233#131#152#173#24#238#146'>'#203'2'#186
@@ -32001,9 +31999,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +#168#193'5OJWkD'#232#131#147#238#223#182'}P'#170#194'M)h@'#225'iW'#254#133#5
   +'HU'#198#131'['#155#255'u'#133'G+'#180#181#208#210#130#216#12#203#234#14'<'
   +#183'I'#159#248#242#220#193'SO^'#156#251#171#127'}'#251#242#181#183'W'#223'v'
-  ,#28#231'~'#145#198#235#139#30#146'$'#201#164#148'Z)e'#148'R'#182#148#229#149
+  +#28#231'~'#145#198#235#139#30#146'$'#201#164#148'Z)e'#148'R'#182#148#229#149
   +'6D'#21'`'#234#6'2X7'#201#153#251#175'u'#238'?'#181#239#220#250#236#254#19'>'
-  +#252#182#3#173')'#148'6'#0#239#139#5#243#147'^?\'#26#239#253#150#141#180'1'
+  ,#252#182#3#173')'#148'6'#0#239#139#5#243#147'^?\'#26#239#253#150#141#180'1'
   +#232#134'1'#194#2#136#200#251#180#130')Svd'#19#3#178#131#26#211#150#143'a'#8
   +'L'#8#25'V'#223#145#146#245'T'#152'R?'#21'G'#171#239'-m'#164'l'#191#158#180
   +#249#130#145#218'e'#229's'#180#195#222#132#249#232#17#128#18'^'#252'{'#12#160
@@ -32065,9 +32063,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +'6^%7'#150#191#141'X&'#200#148#133'T'#10#156#205#129#147'f'#14'F'#212#3'e"W'
   +#211#161#210'Y?'#224'"'#253#209#227'y'#138'N'#247#1#201#244'kA'#3' '#26'H'
   +#190#243'&'#216#1#16#141#130#144#157#188#173#173'~'#28'd'#148')'#13#20'X'#148
-  ,#14#182#193#185#19#1#10#219#25#2#193#25#166#130'=pi`/'#253'tm'#225'/'#255#245
+  +#14#182#193#185#19#1#10#219#25#2#193#25#166#130'=pi`/'#253'tm'#225'/'#255#245
   +#141#159#198'Qr;'#142#227#7'Q'#20'-'#247'z'#189#141'0'#12'K'#182'T'#12'/'#181
-  +' '#132'P'#206'9'#19'B'#244#135#20'6'#26#141#169' '#8'v5'#26#141'=~'#224#28
+  ,' '#132'P'#206'9'#19'B'#244#135#20'6'#26#141#169' '#8'v5'#26#141'=~'#224#28
   +'f'#237#7'O'#29#188#184':{'#224'd'#147#184#1#135#182#26'J'#13#254#4#173#237
   +#228'|'#221'6u'#165'LJl'#244'"H'#165'>'#162#227#143#142#1#23'2'#4#0#147#128
   +'a'#248#189#147#222#191#25'p'#170'?'#139'n'#250#25#21#16#27#253#185#253#247
@@ -32129,9 +32127,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +#221'h4'#246#185#174'{b'#207#190#153#167#255#232#127#251#181'_'#232#233#27
   +#252#218#210'_ '#145'!'#12#0'e,'#8#28#8#222#2#167#1'8'#19'`4'#239'1"'#253#255
   +#134'E'#7'U'#199#133'*'#11#178'}{ 3'#228#234#13#232#201#231#13#169'80'#140'I'
-  ,'^'#13#230#203#210'~ZfxSb+'#160'3'#198#15#148#12#127'|'#3#187#27#210'''j'#166
+  +'^'#13#230#203#210'~ZfxSb+'#160'3'#198#15#148#12#127'|'#3#187#27#210'''j'#166
   +#144'd''Y'#2'e'#22#208#244#166#157#223#252#135#135#158#186#250#250#174#131
-  +#127#254#199'W_'#18#27#226#186#16#162'!'#132'Xr'#28'g#'#12#195'p'#18'[*'#27
+  ,#127#254#199'W_'#18#27#226#186#16#162'!'#132'Xr'#28'g#'#12#195'p'#18'[*'#27
   +'j'#11#182#20'7'#26#141'H'#235#160#167#146#19'K/-'#223'y'#234#196'si{'#239'Q'
   +#31#190'G!%'#10'#'#211#130'1Q'#10'm'#12#164#202#211's'#153#220#129#213#207'G'
   +#18#182'b'#253'cG'#152#12#10#139#31'R'#177#28#26#164#247#6#169'8R'#249'9d'
@@ -32193,9 +32191,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +#206#30#188#181#242'WX'#238']'#129#129'A'#170#12',5`'#212#135'`'#13#136'RMW'
   +#156#144#148'b'#200'(5'#191'er'#135#5'2'#152#232#138'B'#160'@*'#13#177'}'#219
   +#23#152'!'#135#6'2d'#139'jG~'#254#164#20']%'#195'@'#6')'#27'Rm|%c'#242#154
-  ,#163#195#227'P'#205#198#216#254#157'a'#11#155#225#29'1A>'#206' '#159'zJ'#144
+  +#163#195#227'P'#205#198#216#254#157'a'#11#155#225#29'1A>'#206' '#159'zJ'#144
   +#164#25'R'#185#136#182#215#18#191#246#159#28'<'#127#238#233#217'}'#255#238
-  +#159']'#253#233#250#170#211#170#214#150#132#16#253#218'R1'#157#214#26'c'#172
+  ,#159']'#253#233#250#170#211#170#214#150#132#16#253#218'R1'#157#214#26'c'#172
   +'1'#198'VRxi'#1'L'#161'R'#211#221'kq'#227#180#152#191'v'#246#224'y'#229#181
   +'v34|'#130'T'#230#131#234'r%'#30#129')l'#144'>)'#160#148#167#234'L!'#154'+'
   +#234'6'#132#130#16'Sqs'#24'<^'#166#230#250#172#8#186#207'ZPe'#185'd\Zu'#212
@@ -32257,9 +32255,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +'('#138'"9&'#141'g'#182#253'B'#31#179#20'^'#13'H'#143'>U7'#169'n'#196'<'#207
   +#19'9'#22'5'#166'='#207#219#231#186#238#145#167#158';'#242#217#207'~'#233#196
   +#238#155#203#223#198'Zt'#11'J['#168'"]F'#9#131'`'#1'8'#227#249#128#189#194#23
-  ,#140#246'w'#187#182#146#213'*'#23#155'A'#243#235#160'xm+'#190#245#195#206#221
+  +#140#246'w'#187#182#146#213'*'#23#155'A'#243#235#160'xm+'#190#245#195#206#221
   +'y'#173#192#12#222#139'j'#145'{'#192't'#134#143'l'#189#25#22#250#170#172#202
-  +#221'2'#29'W'#246'$Ug'#238#244#221#159#237'x6'#180#201'l'#160'j94Z'#175#26
+  ,#221'2'#29'W'#246'$Ug'#238#244#221#159#237'x6'#180#201'l'#160'j94Z'#175#26
   +#221#25#144'~'#134#202#26#2'M'#242#221'}*S'#172'c'#17#13#167#193'~'#233#197
   +#131#167'/<3'#191#231'['#255#203';/'#175'.;W'#29#199#185'/'#132#240#28#199')'
   +#205'Z'#179#210'~'#168'*x('#198#18'dJ'#169'T)'#149'('#21#132'Arz'#253'N'#178
@@ -32321,9 +32319,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +#255#165':M'#184'"'#231#161'bdh0'#153#154'I'#161#168#31#213'j'#137'5'#166'Ue'
   +'E4'#241#247'3'#191#223#235'g<'#150#241#168'<'#191#152#198'=UD`'#22#227#30
   +'''4R# *N'#189#178'V%'#234#0':%'#186#168#148#21'Eq'#218#251#130'`]~[)$@'#2
-  ,#202#16':'#129#132#182'}'#244'M'#134'T'#223'@'#172'wp'#248#248#177'C'#127#227
+  +#202#16':'#129#132#182'}'#244'M'#134'T'#223'@'#172'wp'#248#248#177'C'#127#227
   +#23#207#254#244#215#254#136'_'#253#218'gw'#191' '#132'X'#246#188#209'fh'#211
-  +#243#188#254'`0'#136#164#148#211'jK8'#128#132#247'X'#214#149#230#128#244#206
+  ,#243#188#254'`0'#136#164#148#211'jK8'#128#132#247'X'#214#149#230#128#244#206
   +#216#209#190#137#12#190#239'{'#11#11#11#173'n'#183#187#216'j'#181#14#5'Ap'
   +#234#204#249#181#23'>'#245'S'#207']'#184#181#251'Ul'#14'_'#135's'#22#202#240
   +'h'#221#150#162#13'O'#20#204#168'l~'#173#1'B'#197'!'#213#180'x'#163'R3B}'#166
@@ -32385,9 +32383,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +'F'#141#205#10#213#199'R'#212'XU'#217'{D'#141#159#141'd8'#154#176'|7'#229#189
   +#178'G'#169'f'#31'GY7'#226'z'#159#20'Wm'#236#245#26#19#23#18#221#216#18'^'
   +#233'W'#26'1'#172#186#12#216#236#129#167#202#6#143#168#168#176#10#1#176#132
-  ,#132'?'#186#6#25#12#223'3P&'#130'v'#12'_'#230#27#210#205#193#22#180'I'#176'p'
+  +#132'?'#186#6#25#12#223'3P&'#130'v'#12'_'#230#27#210#205#193#22#180'I'#176'p'
   +'(Y'#253#249#127'x'#234''''#255#228#223#219#19#175'}'#135#190','#132#232#9'!'
-  +'ZB'#8'_J'#185#229'y'#158'hHxh'#0#145#184#155#186#210#163#6'Js@z'#231#236'H4'
+  ,'ZB'#8'_J'#185#229'y'#158'hHxh'#0#145#184#155#186#210#163#6'Js@z'#231#236'H4'
   +#164':'#209#144#234#150#195'0<'#234#251#254#185#159#253#27#31#248#184#215#138
   +#189#155#183#190#14#237'*'#237#169#206#22#163#21'B'#208'('#189'{'#236'>'#226
   +'Z3j1'#22#186'9L'#143#184'"'#219'1\a\'#224'B'#170#227'B'#166'c'#26#143'&/'
@@ -32449,9 +32447,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +#193#150'i('#249'm'#5#9#8#146#197'5'#239#193'9'#3'W'#140'j'#177'&/='#9'r'#136
   +#178#20#140#219#232#134'Y'#235#167#127#225#240'''?'#251#239'['#203'/'#127'-'
   +#7'$"'#242#0#200'jKJ'#1'J<'#131'-='#22#160'4'#7#164#183#199#142'0'#5#140'Jv'
-  ,#228'u'#187#221'^'#171#213'Z'#13#195#240#216#242'j'#247#226#159#251#137#139
+  +#228'u'#187#221'^'#171#213'Z'#13#195#240#216#242'j'#247#226#159#251#137#139
   +'g'#214#251#223#134'2w'#192#206#129#217#194#185#146#25#1'D!'#164#144'yN]'#153
-  +#228'M'#13' *Om'#226#130#12#185#202#169#158#155#21'F'#145'@e'#221'hT/*s'#238
+  ,#228'M'#13' *Om'#226#130#12#185#202#169#158#155#21'F'#145'@e'#221'hT/*s'#238
   +#242#223#141'FXWV'#138#26#24#149'A'#171#132'=d'#187#2#132#170#198#133#209#146
   +'Q'#26#24#184#178'+'#174#184#169'0'#6#172#209#252#157#138#147#174#198#140#170
   +#140#138'r'#11'x'#233#220#171#238#140#141'3'#24'&'#219'p'#206'V&'#158'V]]'
@@ -32513,9 +32511,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +'1'#205#1#233#209'gG@c<'#185#148'R'#182'Z-'#175#194#142#142#158#191#184#246
   +#244#11#31'<'#177'rc'#231'O'#199#19'`G#'#189'+'#253';'#20'T'#250#142#170#19
   +'`'#185'~'#14#21'I'#10#249#185#204#141'K'#152'+'#178'T%'#247#146#235'S '#168
-  ,'d*'#149'X'#254#146#205#240'H'#3'o2'#159#187#128'n'#136':'#208#145#152#249#6
+  +'d*'#149'X'#254#146#205#240'H'#3'o2'#159#187#128'n'#136':'#208#145#152#249#6
   +'V'#221't'#181'9J'#181#27#187'Q'#231'=*'#230#244'8'#221'E'#170#162#169#217'b'
-  +#213#219#142']'#1#141#172'r'#170#212#141#168#153#240#192'S'#133#187#242''''
+  ,#213#219#142']'#1#141#172'r'#170#212#141#168#153#240#192'S'#133#187#242''''
   +#174'h'#218#20'B'#192'q>'#17#214'8'#134'u'#22#198'n#'#181#9'='#251#209#181
   +#227'g/>'#251#169'_'#251'go}'#227#218'%'#249'ZQ['#10'}'#223#223#169#164#135
   +#187'"'#11#175#148#240't'#217#175#228'\7'#213#217#147#187#201#224#173#247#157
@@ -32577,9 +32575,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +'8-'#236#225#211#234'J'#153#181#157#204'dO'#246#163#193#155#207#159'y'#214
   +#134#135'OJ(bH"X'#227#240#174#198#162#25#231'fu |'#245#188#154'f!'#31']?4n}'
   +#173#20#129'*'#131#254#170'='#10'cg'#29#163#146#151'Wk'#184'Fm6T'#213#169'9%'
-  ,'/e4'#30#198#177#133#227#188#145#189#212#241#235#234'I'#253'U'#139'jst1'#170
+  +'/e4'#30#198#177#133#227#188#145#189#212#241#235#234'I'#253'U'#139'jst1'#170
   +'F'#144#128''''#8#204#26#153#142'p'#234#201#222#218#143#252#220#250'O'#254
-  +#225#175#29#137#1'd'#204#172#138'/CD<'#28#14#167#129#210'#%'#219#205#1#9#19
+  ,#225#175#29#137#1'd'#204#172#138'/CD<'#28#14#167#129#210'#%'#219#205#1#9#19
   +'f'#134#3#179#163#194#204#16#180'Z'#173#133' '#8'V<'#207';'#250#163'?q'#254#5
   +#233';'#177#179#243'J~'#190'Z'#128'+'#243#170#155''''#29'Qu4C'#233#150'k'#158
   +#21#227#6'SW'#4#161#242#168'&'#228'F'#205'w8'#8'3j'#164#0#140#29#161#247#243
@@ -32641,9 +32639,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +#136'y4'#236'o'#180'|0'#143#13#10#163''''#193#197'@'#181#202'x'#165'b('#219
   +#184'p'#237'Fl'#9#21#131'CU'#225#225'Zi'#130'k'#227#14'J'#226'A'#212#172'f'
   +#212'7'#19#163#173'('#229#219#13#235#242#177#229#153'q'#176#156'A'#187#219'X'
-  ,#232#169#214#223#249#31#14'}'#244#143#254'C'#247#208#159'|'#230#246#215#139
+  +#232#169#214#223#249#31#14'}'#244#143#254'C'#247#208#159'|'#230#246#215#139
   +','#188#160#152#179'4'#140#227'8QJ'#217'4M'#211'"'#10#207'9'#231#172'sN'#187
-  +#171']'#165#179#139#177'J'#222'z'#238#244#211#206'_:L'#249#176'?'#2'X'#228
+  ,#171']'#165#179#139#177'J'#222'z'#238#244#211#206'_:L'#249#176'?'#2'X'#228
   +#243#157#242'&'#218#247'Ne'#233' g)'#163#166#0'W'#210'~'#170'Yz'#220#0#28'j'
   +#156'o'#213#147#164#234#220'k'#188#207'\'#207#253'F-'#215'.'#183'q'#191#245
   +'m'#133#239'|.'#197#141'7'#156#131#237'&'#237#214'b'#210'n-&'#139#193#194#250
@@ -32705,9 +32703,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +#165'b6eq'#223'c'#190#16#139#209#162'YZ'#192#167#196'3N'#1'"'#158#177#140#223
   +#221'9G'#247#243#178'fF'#148#229#17'@'#226#174#22#131#134'4'#194'<'#17#178'I'
   +'Sn^'#147'K'#185#178'hL'#216#187']'#197#214';'#30'k'#141#166'M'#188#156#205
-  ,#212#180#132#151's'#206'kkN5#'#141#167#137#144'5B'#235#9#1#235#242'v'#0'g'#1
+  +#212#180#132#151's'#206'kkN5#'#141#167#137#144'5B'#235#9#1#235#242'v'#0'g'#1
   +#205#128#177#3'8'#171'q'#246#185#149#229#255#246#127'9'#243#195#191#250'On-^'
-  +'zC'#182'='#207#11#11#182#180#19#199'q'#156'e'#153'QJ'#169#193'`'#176'['#182
+  ,'zC'#182'='#207#11#11#182#180#19#199'q'#156'e'#153'QJ'#169#193'`'#176'['#182
   +',9'#231#204#245'7'#22#141#206#194#23'Lv'#249#137#211'O'#10#209'Z'#18' A#Vj'
   +#139#30#150#249'q'#151#192#196#168'\'#163#245#150#128#169#155#164')'#215'X3&'
   +#193':'#134'/'#9#202'X'#0';X'#8#23#232#199#255#243#237#139#217'?]'#142'.'#189
@@ -32769,9 +32767,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +'.'#153#187'y'#26'o#w'#129#25'Q6'#128'2'#25#136#232#161'||'#211#154'i''^'#205
   +#148#17#18'4'#146#246'*'#18#11'U'#22#21#154#157#20'1'#147'o'#151#143'1'#173
   +#129#151#166#149#189#167#141#166'!x'#5#176#217#194#174'm'#24#136#245'.'#12'+'
-  ,'z'#225#7#150#143#30'9q'#230'G'#127#229#255's'#253#203'B'#136#176'"'#225#13
+  +'z'#225#7#150#143#30'9q'#230'G'#127#229#255's'#253#203'B'#136#176'"'#225#13
   +#210'4'#205#180#214'Y'#20'E'#224'\'#191#179#204'l'#191#255#213#19#202#232';'
-  +#31#179'f{'#245#240'i'#137'VG@a'#236#168'w'#252'^'#26'aq'#239#207'E'#154'q'
+  ,#31#179'f{'#245#240'i'#137'VG@a'#236#168'w'#252'^'#26'aq'#239#207'E'#154'q'
   +#142'a'#166'\['#247#197'JA'#133#193#1'0'#22' '#26'B'#219#5'|'#226'/'#221'~z'
   +#227#230#153'uw'#181'3'#180#214#198#198#152#216#24#147#22#189'F'#251#177#159
   +#131#254'~'#14'H'#143#0'#'#194#140#255'W#'#131'('#12'C'#191#0#164#142#148'r'
@@ -32833,9 +32831,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +'@'#205'c'#134#222#230#182#136#171'R'#237#228'x'#153#241#206'g'#250'QZ'#193
   +#173#3'R'#173#208#13#186'x'#234#195#183#206#223#186#244#244'yk['#155#198#152
   +'m'#165#212#176#8'_'#213'Z'#235'i='#149's@zL'#153'S'#237#131#20'B'#144#231'y'
-  ,#158#16#194#23'B'#132#173#150#215'k/'#8#255'N'#127#179#24'Q'#157#207'1'#178
+  +#158#16#194#23'B'#132#173#150#215'k/'#8#255'N'#127#179#24'Q'#157#207'1'#178
   +#176#181'N|'#3#7'_'#228#16'd'#12#227#141#239'E'#232'.Ht'#23'='#238',K'#18#148
-  +#143#183'~P'#0't/.'#172'8'#27'"'#213#233#227#186','#140'?h'#158#149#30'^'#191
+  ,#143#183'~P'#0't/.'#172'8'#27'"'#213#233#227#186','#140'?h'#158#149#30'^'#191
   +#249#196#200#244'F0D-z'#168'>'#203#173'Vs'#26'='#212#212#127#143#155''''#235
   +#189'+h'#204#227#153#2#181'D'#197'<'#185'r'#160#189'Cf'#243#186#149'2['#224
   +#150#166'O'#254#204#242#185'cg'#142'/'#252#250'?'#187#253#165#130#225#223#20
@@ -32897,9 +32895,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +#154#20#160#180'U'#158#14#223#255#226'Yf\'#249'0s'#210'[=!'#224#137'2'#152
   +#164#146'"'#241'P'#214'1'#186#7'g'#251'C'#225'IS'#28'w'#227#28#188#189#0#190
   +'ZvN'#181#131'/'#129'cO$'#189#235#175#196#207#220#185#26'\'#15#195#240'N'#187
-  ,#221#222#238't:q'#154#166#186#152#28';'#173#249#127'/0z('#31#232#220#212'p'
+  +#221#222#238't:q'#154#166#186#152#28';'#173#249#127'/0z('#31#232#220#212'p'
   +#128'C'#8'AD$'#136'H'#18#145#215']$?'#211#17#156'ch'#203#240#133#132#160#220
-  +#218#189'}['#225'O'#127'g'#19'o|gq'#167#215':'#245#149'8N'#182#172#181#214
+  ,#218#189'}['#225'O'#127'g'#19'o|gq'#167#215':'#245#149'8N'#182#172#181#214
   +#243#188#165#149#181#206#225#149#213#142#127'u'#251':$'#17#180')'#130#164#31
   +#177'k'#199':'#139'~'#210#135'{O%@7'#13#15#181'\'#161#131#25#30#138't'#135
   +#201'^#1'#250']'#158#216'P'#157'6[J}'#197#212#217#130'-q'#227'>'#234'F'#140
@@ -32961,9 +32959,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +'3$<'#148#141#173#205#129#3'\'#233'5B%'#149'a'#156#131#151#255#206'U'#250#149
   +#168#222'4'#11#212'YXe'#162'm'#173#153'w'#159'\4p'#190#136#149#181'''BnJ'#136
   +'-'#195'q'#12'e-N='#135#149#191#245#255'X'#254#161'_'#251'?'#228#151#137#200
-  ,'/@iW)'#165#146'$'#233#151#127#253#242#231'O'#131'q'#229'#'#224#184#183'xD@'
+  +'/@iW)'#165#146'$'#233#151#127#253#242#231'O'#131'q'#229'#'#224#184#183'xD@'
   +#202#252#21#141#154'8'#249#222'3%'#145'g'#202'Bz'#4#171'}'#243#218#23#252'dw'
-  +'g'#183'-<'#227#157'x'#194#195#19#207#135'X;,a'#9#8'd'#193#160#138'q'#26'eP'
+  ,'g'#183'-<'#227#157'x'#194#195#19#207#135'X;,a'#9#8'd'#193#160#138'q'#26'eP'
   +#236#212#216'.~8'#231#214#232'sl4'#195#149#230#134#189#12#14'R'#230'5'#180'L'
   +';'#176'c,w'#187'X<'#190'y'#212'{'#229#196#17#223#247'W'#195'0'#188#19#134
   +#225#174#239#251#137'R'#170#202#138#154'&'#135#166#134#248'Pd'#187'9 '#205#0
@@ -33025,9 +33023,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +#22#148'a'#24#199#208#214#222#211#248#254#131#222#143#181#22#253'x0'#239'3'
   +#186'_'#167#207'~'#18#30'5'#229#181#170#132#199#163#225'~'#245'('#189'"'#251
   +#172'Ls(nS'#205#9#174'7'#209#150#204#171'1'#220#175#146#195'7!'#225'Ue*'#206
-  ,'m'#225#174#8#170#203'4'#23#242#214'.@'#150'>'#244#169#222#153#206#226'r'#235
+  +'m'#225#174#8#170#203'4'#23#242#214'.@'#150'>'#244#169#222#153#206#226'r'#235
   +#247#127'C|'#165#168')m*'#165#18#165'T'#20'E'#209':'#0#249#218#23#206'I'#198
-  +'['#31'XC'#22#182'V'#228'hQ'#21'D'#247#220'u'''#138#206't'#227#128'a'#22'!V'
+  ,'['#31'XC'#22#182'V'#228'hQ'#21'D'#247#220'u'''#138#206't'#227#128'a'#22'!V'
   +#10'K'#11#170#245'3'#127#239#216#217'/'#252#166#184#245#218#183#148#182#214
   +#198#206#185#140#181#183'+'#229#19'7'#251'W'#213#234'Wo\?v'#243#169#221#229
   +#243#207#7'X=&'#192#158#128'+'#166#239#138#178#167#137#14'"'#155#223#235#211
@@ -33089,9 +33087,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +#220#4#17#193#22#22'['#230#183's2'#223#221#31'03v'#230'`'#244#208'O'#179'q9'
   +#136'+L'#9#245#161#127'@-'#211#140#155#243#149'x'#156#210#128#202#247#213#136
   +#161#166#227'.'#255#27#174'4'#209#150'Si'#171#238'@'#30#207'X'#154'B'#149'j'
-  ,#23#4'Q>2'#197'9H'#18' b$'#218#224#206'p'#27'+'#29#231#253#228#223#233'='#255
+  +#23#4'Q>2'#197'9H'#18' b$'#218#224#206'p'#27'+'#29#231#253#228#223#233'='#255
   +'g'#255#166#215#254#214#151#232'{B'#136';J'#169#129#214':I'#146'dc'#253'Z'
-  +#231#213#224#235'g'#130#19'/^>'#191#0#134#215#205'-'#206#142#239#223#162#174
+  ,#231#213#224#235'g'#130#19'/^>'#191#0#134#215#205'-'#206#142#239#223#162#174
   +#202#134'Q'#1#12'R'#11#235#182'`'#156#197#179#159#212#199'z'#203'+'#193#127
   +#250#215#244'M'#0#156#166#233'v'#201#150#180#214'C'#173'['#131'Vz~'#227#173
   +'t'#240#244#246#173'+'#167'O?/'#228#234#9#137'NK"'#213#185#169#196#247'0'#202
@@ -33153,9 +33151,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +'e'#228''''#127'~'#249#153#197#223#235#181#190#249'Y'#250#22#229#199'F'#146
   +'$'#195','#203'"c'#140#26#179#165'C'#145'U'#11#207'F'#187'o'#157'?'#253',y'
   +#173'U'#130#239#137#220'EkG'#196'3'#15'\x'#192'Kz9wK'#20#207#129#4'`'#216'"'
-  ,#232#177#8';'#233#145','#21#29')e'#171'0]'#149#198#6#218#3#148#230#146#221'C'
+  +#232#177#8';'#233#145','#21#29')e'#171'0]'#149#198#6#218#3#148#230#146#221'C'
   +#223#190'NR'#214#137#176#213'i?'#147'R'#150#129#170'R'#8#17#28':'#22','#3'Lq'
-  +#182#157'7'#194':L-'#224#222#139'O;U'#25#134'I2'#255#4#31'CP'#202#153#207#140
+  ,#182#157'7'#194':L-'#224#222#139'O;U'#25#134'I2'#255#4#31'CP'#202#153#207#140
   +#186'R'#5','#234#160#212#24#155'>'#203#212#208#204#199'k'#230#224'U'#199#161
   +'W'#198#163#211#1#214'!'#174'\'#13#140#188'_'#137#0#176'#'#196#25'#'#244'5v'
   +#147']t'#151#23#219#127#233#191'i}'#224#183#127#169'#'#183#238#208'u'#173#245
@@ -33217,9 +33215,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +#161#188#242#10']'#177#214#198#214#218'x'#227#141#197#203#193'B'#26':'#187
   +#185#210'^'#201'A'#200#19'9Dj'#131'='#4#187'*H'#143#31'{6'#133#168'4+'#187
   +#252#182#182#132'v'#153#219#215#7'I'#12#235',z'#199#220#210#143#252#205#133
-  ,#31#248#211'Ow'#168#184#206#29'3'#187'8'#142#147'$I'#18'k'#173#179#214'j'#231
+  +#31#248#211'Ow'#168#184#206#29'3'#187'8'#142#147'$I'#18'k'#173#179#214'j'#231
   +#156'q'#174#167#172'~*'#6#191#245#146'R'#131#133#229#227#18#158#204'eLS'#184
-  +#238#202'<'#188#251#21'<D'#133'N'#203#196'E'#162#186#131'5'#22'^'#200#228#5
+  ,#238#202'<'#188#251#21'<D'#133'N'#203#196'E'#162#186#131'5'#22'^'#200#228#5
   +#233#170'HDX'#200'v'#210#243#188#146'!'#17#246'y{'#231#128#244#240'@i'#22'k'
   +#218#147'!'#229'XD'#130#136#138'Z'#18#132'2Y~2'#218#3'&'#169#30'@~'#27#196
   +#241'<'#133#225'='#2'J<'#5#148#184#10'Je'#239'Q'#181#218#196#149#159'U'#237
@@ -33281,9 +33279,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +#212#153'j'#207#157#155#151'='#195#217'|'#224#134'(fM('#229#160't'#2'!'#5#142
   +'=o'#143#166'C|'#244#181#207'umijp'#206#217'8'#142#19#165#148'v'#206#13#153
   +#217#21#135'e'#238'9'#240'S'#6#252#250#251#248#184#245#253'.'#21'5'#187#162
-  ,'~'#229#238#241'i'#130#188'19'#239'Eb'#248'>'#129'a<"'#242#1#200#194'|5'#203
+  +'~'#229#238#241'i'#130#188'19'#239'Eb'#248'>'#129'a<"'#242#1#200#194'|5'#203
   +'a'#247#208#194'V'#231#128#180'7('#221'-3'#26#169'rI'#202'N'#248#18#198#230
-  +#244#220#154'J'#150#221#1#239'l7'#138#161#181#155#127#26#243'c'#202')'#182'O'
+  ,#244#220#154'J'#150#221#1#239'l7'#138#161#181#155#127#26#243'c'#202')'#182'O'
   +#19#237'D'#138'7'#143'L'#12#168'0'#168'f'#227#236#248#251#234'm&'#155'qk'#198
   +#136#187'X'#171#202'[:S8'#206'd'#30#202'j4c'#215#13#161'5'#227#248#251'xUx'
   +#29#250#246'g'#228#29#0#216#248#254#161#173'p9mK9'#232#181#151'D>F'#220#213
@@ -33345,9 +33343,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +#128'X%p'#0#150#206#246#22#159#253#241'!^'#254'L'#239#214#250'7N'#220'<'#252
   +#177'7'#207#8'iB'#175#157'?Q'#233'S^'#147#218'c'#245#172'x'#7'kv'#247#250's'
   +#156#238'o'#175'=U'#18'`p'#158#184#192#132'a'#164#193',q'#248#185#193#225'x'
-  ,#179#243'A'#247#157#238#8#148#140'1'#218'Z'#155#24'c'#156'RJ'#163#206#11#9'X'
+  +#179#243'A'#247#157#238#8#148#140'1'#218'Z'#155#24'c'#156'RJ'#163#206#11#9'X'
   +#0'^yJ'#146#247#253#151'ZF'#7#225#2#193'o'#1'F1'#140#205'klow'#164';'#137#156
-  +'%'#10#153#27'?'#196#24'`'#4#144#167#203'8'#247#232'l'#130#231#128'toV'#1#228
+  ,'%'#10#153#27'?'#196#24'`'#4#144#167#203'8'#247#232'l'#130#231#128'toV'#1#228
   +#13#218#206'9'#231#12'3'#155'x`SA'#30'@'#4'k\'#222#152#228#166'_(s'#19#195
   +#252#184#199#167#227#129#204#14'M'#9#175'j'#130#24#141#182'h'#26#25#170'f'
   +#136#234#24#245#17'['#154#180'7'#208#219#177#133#171#156'-9'#5#248'!0'#204#18
@@ -33409,9 +33407,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +#187#227'T'#158't'#224#141#255'['#161'<'#181'@'#213'2J'#168#26#212':y'#155'j'
   +#152'i}'#238'e'#245'qx:'#27'9'#200#149'G'#128#203#242'z'#146'5'#140#8'1'#2#9
   +#172'\t'#135'6_'#17#27#193#240#236'n'#210#186#180#228#4#193#25'7zy'#142#9#205
-  ,'WZ'#207#22'm|W'#153#195'Q'#205'+'#175'2'#163#252#223#174#24#234#231#242#204
+  +'WZ'#207#22'm|W'#153#195'Q'#205'+'#175'2'#163#252#223#174#24#234#231#242#204
   +'J'#225'`'#180#131#176#0'BB'#28#167#232#172#250#173#165#231#175'}'#212'|'#253
-  +'d'#191#219#237'FZ'#235'D)'#165'K'#162#196#204#214#24#195'i'#154'2'#17'A'#8
+  ,'d'#191#219#237'FZ'#235'D)'#165'K'#162#196#204#214#24#195'i'#154'2'#17'A'#8
   +'Q'#14't'#245#232#149#227'_\'#10#210#31#130#216'^'#246'Z'#2'~'#200#176#166
   +#168#9'Mq'#223#141#199'A'#229'l'#213#23#5';'#210#0'[_;'#231#12#128'rf'#211#28
   +#144#30#227'+'#153#155#172#168#249#187#130#134'kk'#173#178#214'&'#131'M;8'
@@ -33473,9 +33471,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +#163's'#136'Z'#217#249#155'/'#233'W'#142'nh'#173'w'#179','#139#211'4'#205#148
   +'R'#198'V:'#229#139#30'%DQ4'#244'<'#207#243'}?'#144'R'#182#252#239'\'#248'F'
   +#231#165#239'~'#220#178#246#132#204''''#251':'#195#163'zq'#249'>si'#253#150
-  ,'@'#22'1'#2#14#251#166#144#236#138'T'#153'i'#229#135#135#202#150#230#128#244
+  +'@'#22'1'#2#14#251#166#144#236#138'T'#153'i'#229#135#135#202#150#230#128#244
   +#246#174#220#230#191'G'#31#156#181#214'j'#173#149'1&5'#198#196'7_'#179#215
-  +#158'}'#127'x'#145#9#144'!'#192#217#221#135'%N'#195#165#242'B'#247#253#156'&'
+  ,#158'}'#127'x'#145#9#144'!'#192#217#221#135'%N'#195#165#242'B'#247#253#156'&'
   +#201#128#176#254#166#198#173#151#173';w'#228#131'7'#9#146#143#157'^'#14#19'5'
   +#200'e'#5#226#241#19'%'#204'Ai~'#204#222#211#243'$['#170#129#210','#182#196
   +'U'#182'T'#141#29#154#4'&p'#197'bPKs'#216#3'|'#166'.'#141#13'n'#165#199'?sT'
@@ -33537,9 +33535,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +#214#243#221'C/Y'#206#143'w'#191#164'W'#175'=U'#193#137'k'#19'j'#209#0'4'#194
   +'L'#243#196#187#8#140#128#162#153'W3'#4#8'J'#27#248'+:Tk'#235'/'#132'j'#229
   +'f'#187#221#222#232't:'#131'$I2'#173#181'i'#128#2'Ykm'#150'e*'#138#162'~'#24
-  ,#134'A'#24#134'='#191#191#240'Fx'#231#228#19#186'{'#229#132#223#162'|'#0#155
+  +#134'A'#24#134'='#191#191#240'Fx'#231#228#19#186'{'#229#132#223#162'|'#0#155
   +#24#27'H'#146'!c'#137#195#190'sN'#21#12#201#20'@'#199#251'l'#178#31#248#222
-  +#213'{7\'#12'$'#30'8'#6#206#2'('#7'@:'#231'\'#193#144#18#173#245'Pk'#189#187
+  ,#213'{7\'#12'$'#30'8'#6#206#2'('#7'@:'#231'\'#193#144#18#173#245'Pk'#189#187
   +#245'z'#231#205's'#239#235'^'#220#212#187#130'D>j'#153'i'#127'0% '#7'/'#16'<'
   +#159#17#180#5#136#24'7^'#214#232'_'#11#210#179'k'#23#190'5'#232#15'o'#198'q'
   +#188'a'#173#181'B'#8#1#128'Z'#11#20#196#233#16#228'1X'#21#23#174#155#227#209
@@ -33601,9 +33599,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +#231#132#231'$'#152'''&c'#206#143'w1k'#170#156#31'4'#17'q?y5r-'#8#245#193#156
   +#175'{'#203#253'w'#201#146#138#166#245'X'#164#232','#19'e'#221';O'#251#201
   +#241'W'#131' Xh'#181'Z'#161#239#251'2'#203'2LI'#231#134's'#206'fY'#166#226'8'
-  ,#142'z'#189#222#150'1f='#185#186#240#205'C'#207#174'=3'#140'7'#218#241#14#163
+  +#142'z'#189#222#150'1f='#185#186#240#205'C'#207#174'=3'#140'7'#218#241#14#163
   +#195#221#171#204#28'9'#231#210'r|'#249'>'#236#232#161#201'v'#143#191'dg'#28
-  +'H'#208#195#186'r'#154#187#139#170'lW'#186#237'LA'#171'#'#165#212#150'1'#230
+  ,'H'#208#195#186'r'#154#187#139#170'lW'#186#237'LA'#171'#'#165#212#150'1'#230
   +'N'#252#198#210#155#242'">'#168'w'#203#216'~'#134#181#185#238'[:'#133#202#171
   +#192'Z'#198#245'o)'#4#233#209#205#222#226#234'7'#7#131#193#245'('#138#238#196
   +'q'#188#155#166'i'#172#181#214'E'#189#203#22'r'#29#0#16#11'&'#3#3'gsm~T'#155
@@ -33665,9 +33663,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +#5#168#137#217#206#224#188#5#132#161'3'#11#191'G'#200#182#182'N'#135#254#201
   +#5#223#247';a'#24#134#190#239#203'$I'#178'Y'#236'F)'#197'q'#28#167#204'l'#180
   +#214'iK'#183#134'2^'#250#245','#138#162#194#248'P'#218#199'g'#201'u'#192'C66'
-  ,'<'#246#128'dt.s=b'#146#221#4'89'#231'L'#150'e"I'#146#184#232#25'X'#15'TpC^='
+  +'<'#246#128'dt.s=b'#146#221#4'89'#231'L'#150'e"I'#146#184#232#25'X'#15'TpC^='
   +#245'}q'#246#229#15#8#143' '#4'a'#243'M'#131#237'7`'#158'<'#242#194'W'#149
-  +#210'o&IR'#186#234#6#197#156#20#215#0#199#242#203':'#231#12'3[f'#182'*aC'#240
+  ,#210'o&IR'#186#234#6#197#156#20#215#0#199#242#203':'#231#12'3[f'#182'*aC'#240
   +'C'#199#185'S'#201'V'#134'!='#12'`'#154'f'#155'%A'#249#238#17#132#221#27#22
   +'G'#23#207'mYkc'#0#236#5'^'#203':'#151'g'#241'i'#158#144'e'#231#170#221#252
   +'xP'#231'+s'#190#177#243'Z'#2#194#3#238#188'j'#209'6'#135'v'#23'WV'#182#148
@@ -33729,9 +33727,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +':'#21#28'Va'#247#176#128#240#9#144#4#200'1'#27#131#199#240'B'#194#174#27'v'
   +#132#16'm'#207#243#130#2#144'HJ'#137#202'$'#217#187#1#165#253'X'#209'^5'#164
   +'9 '#29#8#29#30'n]a'#154'=r'#154't7'#177#251'PJ!'#138'"h'#173'M'#16#4#169#148
-  ,'2G''c'#156#214#154#149'R&MSW8j'#166#214#141#138#251#18#0'`'#243#163'dHi'#186
+  +'2G''c'#156#214#154#149'R&MSW8j'#166#214#141#138#251#18#0'`'#243#163'dHi'#186
   +'I'#155'k'#158#15'[<'#19#225#231#242#230#8#188#31#194#130'^6'#254'yE'#135'{'
-  +#255#170#195'Jpj[ez'#179#232#207#138'|'#223'o3'#179'+w'#167' '#130'3'#174#158
+  ,#255#170#195'Jpj[ez'#179#232#207#138'|'#223'o3'#179'+w'#167' '#130'3'#174#158
   +#197'7'#7#164#249#241#160'XR'#1'Ni'#159#209#243#214#6#236'hKk'#221'WJ'#13#149
   +'R'#137'1F'#21'-'#23#206#24#3'km)'#203#139','#203#162'$I'#194'v'#187#189#219
   +#233't6['#173#214'z'#187#221#190#221#9'Wo.'#181#142#30#217#221#190#245#252
@@ -33793,9 +33791,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +#128'$'#0'p'#1'H'#153'1&v'#206#245#205#174#28#134#189#160#21#237'd`'#129'|'
   +#156'9?'#184'w%'#143#237#167#220'|"'#128't'#219#193'7'#11#137#228#224#142#214
   +'I?'#203#178'D)'#149#21#238'@'#175#140'?'#210'1'#199#249#150'2gu'#249'p'#180
-  ,'9'#10#221#183#207#169#152#7'"'#253#252'LJ'#7#140'N'#180'6l-v'#148'Xr'#189
+  +'9'#10#221#183#207#169#152#7'"'#253#252'LJ'#7#140'N'#180'6l-v'#148'Xr'#189
   +#254#176#15'2n'#212#159#243#174#142'q*'#222#19'k'#0'H'#130' '#6'<F'#230#226
-  +'@'#8#225#231#222#2'I'#5' '#217#10'('#237#199#146'&@'#161#24#27#1'f6'#214'Ze'
+  ,'@'#8#225#231#222#2'I'#5' '#217#10'('#237#199#146'&@'#161#24#27#1'f6'#214'Ze'
   +#173#205#140'1Q'#171#213#218#246'}?'#144#241#202#229'U'#191#245'{I'#148'l%I'
   +#18'eY'#166'*r'#225'A%;'#188#3#169'n'#238#178#187'['#134#196#246'a<'#238#158
   +'s'#146#246#146#241#24#7#171#27#1#7'33'#140#172#230#206'9[$'#251'&'#198#152
@@ -33857,9 +33855,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +#176#6#141'_lu'#226#252#197#153#233#197'l'#170'a'#137#174#205#132#16#197'#5'
   +#19'%'#138#16#7#8'!'#180#233#201#136#133#16#145'H'#244#190#155#185'LI'#237'+'
   +#208'9'#145#254#220#198#206#228#18#230#187'q'#140'*'#175#6'J'#207#162#138'B`'
-  ,#182#149#170#188'aY'#201#188#255'he'#180#241#152#199'|'#194#24#155#196'q|'
+  +#182#149#170#188'aY'#201#188#255'he'#180#241#152#199'|'#194#24#155#196'q|'
   +#168#148#146'B'#136#20#0#196#8'F'#226#218#224#147#248#193#206#159'o'#203#149
-  +#212's'#134#185#226#6#231'h'#235#233#11#205'O'#254#252#6#6#176#147';q'#14#197
+  ,#212's'#134#185#226#6#231'h'#235#233#11#205'O'#254#252#6#6#176#147';q'#14#197
   +#16#203#217#0'c'#28#152#253'D.'#165#148'`'#140#193#172#136#209'P?c'#174'N%'
   +#245'%#'#128'g'#223#240#170#207#2#25#157#27#133'tZ'#202'O['#242'I'#208'#|'#7
   +#13'DU&'#180'j'#216#174'N!)'#165#148','#242'Hf'#138#246#129#183';'#252'~'#176
@@ -33921,9 +33919,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +'k'#173'|'#161'MN'#165#152#189#135#220'<>'#24#222#149#192#238';'#226#195#171
   +#183#191#165#216#191#27#134'a'#136#16'"'#158#231']'#160#241'x'#3#17'X/'#254
   +#10#4'9'#9#159'J'#195'Z'#250'DI'#227#189#144'|'#189#7#159'jX'#31']'#220#20'\'
-  ,'L'#13#193'$f#*/'#191'G'#198'a'#16'Zkl'#222'Kf'#246#250#132#131#193'`2'#24#12
+  +'L'#13#193'$f#*/'#191'G'#198'a'#16'Zkl'#222'Kf'#246#250#132#131#193'`2'#24#12
   +#246'}o'#180#243#193#210#175#127'8`'#219#239'='#185#251#211#235#217'r'#236
-  +#211#11#249'Zn'#192#0' r'#178#151#188'D'#224#229'<'#147'>='#17#189#242#153#6
+  ,#211#11#249'Zn'#192#0' r'#178#151#188'D'#224#229'<'#147'>='#17#189#242#153#6
   +#0'p'#136#3'!D'#1#194'hL'#8')'#170#237#8'!'#4#169#163#195#216'FLmUq}'#231#202
   +#245#153'Kw&]'#245#179'_'#212'pNG'#200'4l'#166#173#243#180#10'uTUL'#26#242
   +#233#223#130'1'#150#166'i'#26#250#190#191#239'y'#222#214#248#224#202'w'#219
@@ -33985,9 +33983,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +'x:%g'#243#216't'#239#146#198#22#145#6#170#253#140'"'#127'{&f'#161#16'"'#225
   +#156'3'#147#227'k'#218#241'Su'#146#138#31#143#149'RR)'#133'MA'#13#231#156#243
   +'4M'#19#207#243'"'#207#243#166'A'#16#28'x'#158#183#227'y'#222'2'#165'ts'#157
-  ,'^'#186#127'yxu}'#202#15#222#218#250#233#241#149'C'#216']v'#214#0#185#171'f'
+  +'^'#186#127'yxu}'#202#15#222#218#250#233#241#149'C'#216']v'#214#0#185#171'f'
   +#205#5#214#243#223'|'#236#23'WK}'#212'3Z'#240#174#232' >:;'#14'q!'#210#225#0
-  +'0'#140#9'!'#129#235#186'>'#165#212'u'#28#7#27'BB'#11#188#132'&RB''y'#233'g'
+  ,'0'#140#9'!'#129#235#186'>'#165#212'u'#28#7#27'BB'#11#188#132'&RB''y'#233'g'
   +#149#136#206#13'!'#205#205#239'ye'#157#250#193#173'e'#181#212'6'#185#161'\q'
   +#167#24'cY'#146'$'#145#239#251#135#148#210'm'#215'u'#239'_'#28']'#223'|'#8'w'
   +'_GpT'#2#142'N'#176#13'TWn#'#140'M'#21'\'#6'@1M'#148'R'#153'!'#165#130#144't'
@@ -34049,9 +34047,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +#218'n'#219#19'R'#21#158'8'#2'%'#21'8'#200'IS'#157#202#130#144'L'#201#183#238
   +'CH%'#149#148#164'i:K'#211't'#143'R'#186#185'1'#189#246#135#173#209#163#255
   +'&'#24''''#186#8#219#241#210#206#162'R'#179'+8hn"'#181#6#224#15'4d'#247#181
-  ,#190#177't'#243#241#181#183'o|'#158'$'#201#131'('#138#158#24'2:'#140#227'82d'
+  +#190#177't'#243#241#181#183'o|'#158'$'#201#131'('#138#158#24'2:'#140#227'82d'
   +'$*'#175#245#216#235#211'Z#!'#4#164'i'#26'%Ir@)'#245'\'#215#29#220'p'#222#255
-  +'c'#228#254#219'_'#9#201#156#220'0'#154'qD'#240#242'G'#10#21#215#10'4'#128'L'
+  ,'c'#228#254#219'_'#9#201#156#220'0'#154'qD'#240#242'G'#10#21#215#10'4'#128'L'
   +#16','#209#165#184#24#233'd'#26'\'#203#229#222#213#28'RW.'#169#26#182#195#149
   +#135#170'>''s`3'#157#131'1'#198'\'#199'qb'#215'u]'#207#243#2#223#247#15'('
   +#165#1#165'tD)'#29#185#174';'#30#187#203'wW7'#214'W'#28#199#25#31#166#251#215
@@ -34113,9 +34111,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +#250'%'#173'U'#155'+'#223#4#128#130#159'a'#192#161'R*5K'#247#170#5#13'M'#234
   +#168'-lWV'#233#184'!|'#167':'#212#210'S'#133#17'ZklJ'#239#177'Q'#203#140#16
   +#130#9'!'#174'Y'#146'G'#221#188#212#205's]70'#170#223's]7 '#132#248#142#227#4
-  ,#132#16'o'#201']'#9'V'#188#181#128#172#17#159#16#226#199'Y'#180#198'8'#27'%Y'
+  +#132#16'o'#201']'#9'V'#188#181#128#172#17#159#16#226#199'Y'#180#198'8'#27'%Y'
   +'<F'#28#225'$N'#2'!'#184#3#8#244','#153#13#180#204'g'#249#14#189#1'#'#196#145
-  +'K'#131#241#20'<'#20#14#150#6#15#17#194#15'}'#199#255'*I'#146#189'4M#3'#215
+  ,'K'#131#241#20'<'#20#14#150#6#15#17#194#15'}'#199#255'*I'#146#189'4M#3'#215
   +#175#238#218't'#190#203#181#227#145'T'#197#213#132#18'A'#157#211#2#7#187#15
   +#233'|)'#165#182'~$TUJJ),'#132#224'I'#146#164#142#227'L]'#215#221'!'#132#4'C'
   +'<'#28#220#12#222'['#189#195#255#252#14'r'#1'4'#209#199'CMu%'#204'%S'#132#201
@@ -34177,9 +34175,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +'Z!'#147'K)'#160'1'#198'P'#138#181'C'#141#177#171#187#5#235#202#217#181'RJ+'
   +#227#222'3'#198'pS'#238#169#197#168#170#6#195#211#167#215#166'n'#16#205'<D)'
   +#165#212'eR*F'#230'('#165#178#149'`'#157#221#246'?'#157'~='#253#226#23'|'#148
-  ,#185#200'3'#213'o'#229#18#251#231'mt'#16#28#237#25#18#0#30#246'b'#174#132'0^'
+  +#185#200'3'#213'o'#229#18#251#231'mt'#16#28#237#25#18#0#30#246'b'#174#132'0^'
   +#191'4'#229#249'm'#197''''#186'!$'#220#228#24#213#17#146#238'PQP'#163#150'P'
-  +#11'9-DD5'#175#167'-'#220#221#180#244'r'#209'>'#173#206#138';'#221#148#141
+  ,#11'9-DD5'#175#167'-'#220#221#180#244'r'#209'>'#173#206#138';'#221#148#141
   +#211'-'#238#167#13#217#157'B'#195'|Z&)'#159#30#149'Tg'#28#234#242'I'#165#249
   +#200'G'#138'IJ'#9#156's'#20'EQA$'#24'!'#132#135'0$'#183#253'_'#225'/'#210'?|'
   +#150#185#140'"j'#194'Le3a<<'#132#243'>'#23#172#1'4QX'#130#240#16'B'#164#136
@@ -34241,9 +34239,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +'^'#204#128':'#200#168'+'#188#172'*'#247#214#194#19#191#181#170#184'X'#168
   +#230#183#214#149#127'XB:m'#134#216#18#210#130#161#187#234'D'#240'>7)('#165
   +#160#168#194'2'#227'Y'#148'R'#138'k'#173#185'R*}3x+^qW>'#253'*'#250#211#135#2
-  ,#184#3#129'QH'#14#130'X'#197#190')'#251'v'#8'!'#132'R'#10#132#16#144'R'#158
+  +#184#3#129'QH'#14#130'X'#197#190')'#251'v'#8'!'#132'R'#10#132#16#144'R'#158
   +'4t'#134#22'$'#163'>'#164#212#165#140#154#194'vu'#243#217#250#134#180#138'&'
-  +#218'yU'#184#153'('#193#178',K'#24'c'#209'`08'#244'}'#127#127#217'['#217#251
+  ,#218'yU'#184#153'('#193#178',K'#24'c'#209'`08'#244'}'#127#127#217'['#217#251
   +#245#229#223'\'#220'Mw'#222#187#247#228#222#181#200#11#3#180#2#128#2#19'*U'
   +#165'm'#176#188#230#10#149#180'$B'#0#218#5#136'D'#184'2 '#195'b'#166#27'.'#21
   +#155#232'E'#131#227#181#158'~'#229#223#22'PM}'#200#9':'#212'q'#211's'#157#14
@@ -34305,9 +34303,9 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +#16#212#145#19'.'#17#212#156#156#204'r8'#156'eYF'#8#137#29#199'!'#134#156'\J'
   +#169'k'#216#201#163#148'z'#174#235'R'#215'u}B'#136#131#16#130#245#193':_'#245
   +'W#'#206#249'A'#146'$'#7#140#177#216#12'|'#237#154#248'}j'#206#245's$'#168
-  ,#231'qf'#22'>K'#141'J'#168#252'\Ucc'#232#151'c:'#163'@}'#174#213'3'#255#18
+  +#231'qf'#22'>K'#141'J'#168#252'\Ucc'#232#151'c:'#163'@}'#174#213'3'#255#18
   +#212'|'#245'~'#255#251#223'['#214'x'#193#248#199#127#252#199#174#18#216#166
-  +#189'2'#184#225#243#234#255'{'#234#231#18'B'#128#16#2'E'#19#172#227'8'#218
+  ,#189'2'#184#225#243#234#255'{'#234#231#18'B'#128#16#2'E'#19#172#227'8'#218
   +#236#2'R'#140'1!'#132#144'p'#178#137#219'/'#236#192#254#254#247#191#215#207
   +'p='#187#174'i'#219#245#173#251#26#151#136#8'U'#190#174']Tg&'#179'cB'#8'2}E'
   +#132'RJ('#165#142'y'#184#174#235#18#179#154'[j'#173'3!D'#146#166'i'#152#166
@@ -34369,17 +34367,17 @@ LazarusResources.Add('TForm1','FORMDATA',[
   +' at http://scienceinhydroponics.com'#11'ParentColor'#8#8'WordWrap'#9#0#0#6
   +'TLabel'#7'Label24'#4'Left'#2#16#6'Height'#2'p'#3'Top'#3#176#0#5'Width'#3'Y'
   +#1#8'AutoSize'#8#7'Caption'#12#31#1#0#0'HydroBuddy was built using Lazarus v'
-  ,'1.0.6, the code uses the limiting molar conductivity values found at http:/'
+  +'1.0.6, the code uses the limiting molar conductivity values found at http:/'
   +'/www.currentseparations.com/issues/18-3/cs18-3c.pdf and the powerful linear'
-  +' equation system solving libraries of ALGLIB which can be obtained for free'
+  ,' equation system solving libraries of ALGLIB which can be obtained for free'
   +' at http://www.alglib.net.'#11'ParentColor'#8#8'WordWrap'#9#0#0#7'TButton'#8
   +'Button11'#4'Left'#3#160#0#6'Height'#2#25#3'Top'#3'('#1#5'Width'#2'K'#7'Capt'
   +'ion'#6#2'OK'#7'OnClick'#7#13'Button11Click'#8'TabOrder'#2#0#0#0#0#0#0#6'TLa'
-  +'bel'#12'LabelVersion'#4'Left'#3#152#1#6'Height'#2#15#3'Top'#3#128#1#5'Width'
-  +#2#15#7'Caption'#6#3'1.5'#11'ParentColor'#8#7'Visible'#8#0#0#11'TSaveDialog'
-  +#11'SaveDialog1'#10'DefaultExt'#6#4'.csv'#6'Filter'#6#5'*.csv'#4'left'#3#152
-  +#2#3'top'#4#216#255#0#0#0#0#10'TPopupMenu'#10'PopupMenu1'#4'left'#2'8'#3'top'
+  +'bel'#12'LabelVersion'#4'Left'#3#152#1#6'Height'#2#16#3'Top'#3#128#1#5'Width'
+  +#2#17#7'Caption'#6#3'1.5'#11'ParentColor'#8#7'Visible'#8#0#0#11'TSaveDialog'
+  +#11'SaveDialog1'#10'DefaultExt'#6#4'.csv'#6'Filter'#6#5'*.csv'#4'Left'#3#152
+  +#2#3'Top'#4#216#255#0#0#0#0#10'TPopupMenu'#10'PopupMenu1'#4'Left'#2'8'#3'Top'
   +#2'('#0#9'TMenuItem'#9'MenuItem2'#7'Caption'#6#4'Copy'#7'OnClick'#7#14'MenuI'
-  +'tem2Click'#0#0#0#22'TSelectDirectoryDialog'#22'SelectDirectoryDialog1'#4'le'
-  +'ft'#2#16#3'top'#2'('#0#0#0
+  +'tem2Click'#0#0#0#22'TSelectDirectoryDialog'#22'SelectDirectoryDialog1'#4'Le'
+  +'ft'#2#16#3'Top'#2'('#0#0#0
 ]);

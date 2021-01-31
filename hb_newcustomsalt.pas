@@ -6,7 +6,7 @@ interface
 
 uses
   Classes, SysUtils, FileUtil, LResources, Forms, Controls, Graphics, Dialogs,
-  StdCtrls, Buttons, Dbf, db, Dbf_Common ;
+  StdCtrls, Buttons, ExtCtrls, Dbf, db, Dbf_Common ;
 
 type
 
@@ -46,7 +46,6 @@ type
     Label10: TLabel;
     Label11: TLabel;
     Label12: TLabel;
-    Label13: TLabel;
     Label14: TLabel;
     Label15: TLabel;
     Label16: TLabel;
@@ -66,6 +65,7 @@ type
     Label7: TLabel;
     Label8: TLabel;
     Label9: TLabel;
+    Panel1: TPanel;
     procedure Button1Click(Sender: TObject);
     procedure Button2Click(Sender: TObject);
     procedure CheckBox2Change(Sender: TObject);
