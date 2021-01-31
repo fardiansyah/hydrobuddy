@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CONFIG>
-  <Compiler Value="/usr/local/bin/fpc" Date="1590953228"/>
-  <Params Value=" -MObjFPC -Scgi -O1 -gw2 -godwarfsets -gl -k-framework -kCocoa -l -vewnhibq -Fu/Users/night/.lazarus/lib/TAChartLazarusPkg/lib/x86_64-darwin/cocoa -Fu/Users/night/.lazarus/lib/IDEIntf/units/x86_64-darwin/cocoa -Fu/Users/night/.lazarus/lib/LazControls/lib/x86_64-darwin/cocoa -Fu/Users/night/.lazarus/lib/units/x86_64-darwin/cocoa -Fu/Applications/Lazarus/lcl/units/x86_64-darwin -Fu/Applications/Lazarus/components/lazutils/lib/x86_64-darwin -Fu/Applications/Lazarus/packager/units/x86_64-darwin -Fu/Users/night/Desktop/HYDRO/hydrobuddy/ -o/Users/night/Desktop/HYDRO/hydrobuddy/hydrobuddy -dLCL -dLCLcocoa hydrobuddy.lpr"/>
-</CONFIG>
